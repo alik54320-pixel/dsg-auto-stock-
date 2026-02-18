@@ -236,22 +236,5 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117405067",
     "id": 15
-  },
-  {
-    "id": 16,
-    "title": "CITROEN C3 III 1.2 i THP 83CH FEEL",
-    "brand": "CITROEN",
-    "model": "C3",
-    "price": 6790,
-    "year": 2020,
-    "km": 103000,
-    "power": 83,
-    "fuel": "Essence",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/2e/62/f8/2e62f85bc48339855c57f8d2fd9575a5814c96d1.jpg?rule=ad-large"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3047646422"
   }
 ]
