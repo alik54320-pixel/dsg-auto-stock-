@@ -14,7 +14,8 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/45/99/cc/4599cce14c47350b71296dfa31800de664fc03e8.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3092425631"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3092425631",
+    "sold": true
   },
   {
     "title": "VOLKSWAGEN GOLF 8 R – 2.0 TSI 320 DSG7 – PACK R-PERFORMANCE",
@@ -150,7 +151,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/fd/0a/4d/fd0a4d7ba0ee29025e9de412a9bd865859bce247.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/2961612207",
-    "id": 9
+    "id": 9,
+    "sold": true
   },
   {
     "title": "HONDA ACCORD VII PHASE 2 – 2.4 i-VTEC K24A3 – 190 CH – BV6",
@@ -255,5 +257,107 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/2e/62/f8/2e62f85bc48339855c57f8d2fd9575a5814c96d1.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3047646422"
+  },
+  {
+    "id": 17,
+    "title": "NISSAN QASHQAI 1.2 DIG-T 115 N-CONNECTA XTRONIC – BVA ",
+    "brand": "NISSAN",
+    "model": "QASHQAI",
+    "price": 9490,
+    "year": 2017,
+    "km": 141000,
+    "power": 115,
+    "fuel": "Essence",
+    "gearbox": "Automatique",
+    "description": "",
+    "photos": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/d8/06/f9/d806f9ed46b207aa17cb2a508f56a9cf01508373.jpg?rule=ad-large"
+    ],
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117405067"
+  },
+  {
+    "id": 18,
+    "title": "BMW SÉRIE 3 TOURING E91 320d 177 CH – BREAK",
+    "brand": "BMW",
+    "model": "SERIE 3",
+    "price": 8990,
+    "year": 2010,
+    "km": 159500,
+    "power": 177,
+    "fuel": "Diesel",
+    "gearbox": "Manuelle",
+    "description": "",
+    "photos": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/77/1c/87/771c87e250d687829b7896e52d960eb804fa02e3.jpg?rule=ad-large"
+    ],
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117421171"
+  },
+  {
+    "id": 19,
+    "title": "PEUGEOT 308 1.2 THP ALLURE 110CH",
+    "brand": "PEUGEOT",
+    "model": "308",
+    "price": 8790,
+    "year": 2018,
+    "km": 93000,
+    "power": 110,
+    "fuel": "Essence",
+    "gearbox": "Manuelle",
+    "description": "",
+    "photos": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/aa/0b/16aa0b1eb08bc4fc1c67f71f65c246f36cd9feba.jpg?rule=ad-large"
+    ],
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117408349"
+  },
+  {
+    "id": 20,
+    "title": "CITROËN C3 Aircross 1.2 PT 131 CH - Finition Shine - Garantie 12 Mois PSA",
+    "brand": "CITROEN",
+    "model": "C3 AIRCROSS",
+    "price": 8000,
+    "year": 2020,
+    "km": 105000,
+    "power": 131,
+    "fuel": "Essence",
+    "gearbox": "Manuelle",
+    "description": "",
+    "photos": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/70/b3/4e/70b34efc4d171e7e72bd017b8401e2fca9c435cd.jpg?rule=ad-large"
+    ],
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/2892860990"
+  },
+  {
+    "id": 21,
+    "title": "HYUNDAI i30 1.4 i 16V S&S 100CH - BLUE INITIA DRIVE ",
+    "brand": "HYUNDAI",
+    "model": "i30",
+    "price": 8000,
+    "year": 2016,
+    "km": 132000,
+    "power": 100,
+    "fuel": "Essence",
+    "gearbox": "Manuelle",
+    "description": "",
+    "photos": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/3d/c5/77/3dc577dad600aea44112b1e9497bbe3eedf46be8.jpg?rule=ad-large"
+    ],
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/2860198857"
+  },
+  {
+    "id": 22,
+    "title": "VOLKSWAGEN POLO 1.4 TDI 90 BlueMotion – CONFORTLINE BUSINESS",
+    "brand": "VOLKSWAGEN",
+    "model": "POLO",
+    "price": 7690,
+    "year": 2017,
+    "km": 176469,
+    "power": 90,
+    "fuel": "Diesel",
+    "gearbox": "Manuelle",
+    "description": "",
+    "photos": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/18/fb/54/18fb541350b06172cf6f884e0458d92e15405bf7.jpg?rule=ad-large"
+    ],
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128265035"
   }
 ]
