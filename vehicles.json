@@ -150,7 +150,8 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/09/e3/18/09e3181921704db5f096bbd15644ed54dd131ed3.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117419316"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117419316",
+    "sold": true
   },
   {
     "id": 10,
@@ -678,5 +679,22 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/2e/62/f8/2e62f85bc48339855c57f8d2fd9575a5814c96d1.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3047646422"
+  },
+  {
+    "id": 46,
+    "title": "DS DS3 1.6 THP 165 SPORT CHIC - GPS - CT.OK - GARANTIE 12 MOIS By LABEL - 2EME MAIN",
+    "brand": "DS",
+    "model": "DS 3",
+    "price": 5790,
+    "year": 2016,
+    "km": 156000,
+    "power": 165,
+    "fuel": "Essence",
+    "gearbox": "Manuelle",
+    "description": "",
+    "photos": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/2e/8b/49/2e8b49c9940208413644df32ecf2c92ced851ee3.jpg?rule=ad-large"
+    ],
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3151734682"
   }
 ]
