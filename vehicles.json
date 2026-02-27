@@ -31,7 +31,8 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/48/36/07/483607bcf62354d4e73f3c0e57c76d4363f5732b.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128299881"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128299881",
+    "sold": true
   },
   {
     "id": 3,
