@@ -17,24 +17,6 @@
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128309959"
   },
   {
-    "id": 2,
-    "title": "🚀 OPEL GRANDLAND X 1.2 TURBO 130 INNOVATION – BVA – CT.OK – CUIR – GPS – CAMÉRA – GARANTIE 12 MOIS By OPEL – CT OK 2028 – SUV MODERNE & CONFORTABLE 🚀",
-    "brand": "OPEL",
-    "model": "GRANDLAND X",
-    "price": 11490,
-    "year": 2019,
-    "km": 76447,
-    "power": 130,
-    "fuel": "Essence",
-    "gearbox": "Automatique",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/48/36/07/483607bcf62354d4e73f3c0e57c76d4363f5732b.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128299881",
-    "sold": true
-  },
-  {
     "id": 3,
     "title": "🚀 FORD GRAND C-MAX 1.6 TDCi 115 TITANIUM – DIESEL – GPS – BLUETOOTH – MONOSPACE FAMILIAL – GARANTIE 6 MOIS INCLUSE – CT OK 2028 🚀",
     "brand": "FORD",
@@ -118,41 +100,6 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/18/fb/54/18fb541350b06172cf6f884e0458d92e15405bf7.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128265035"
-  },
-  {
-    "id": 8,
-    "title": "🚗 BMW SÉRIE 3 TOURING E91 320d 177 CH – BREAK FAMILIAL – MOTEUR À CHAÎNE – JANTES – CT.OK – GARANTIE 12 MOIS by LABEL CHEZ BMW 🚗",
-    "brand": "BMW SÉRIE",
-    "model": "SÉRIE 3",
-    "price": 8990,
-    "year": 2010,
-    "km": 159500,
-    "power": 177,
-    "fuel": "Diesel",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/77/1c/87/771c87e250d687829b7896e52d960eb804fa02e3.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117421171"
-  },
-  {
-    "id": 9,
-    "title": "🚗 DACIA SANDERO STEPWAY 1.5 dCi 90 PRESTIGE – CLIM – BLUETOOTH – RÉGULATEUR – BARRES DE TOIT – CT.OK – GARANTIE 6 MOIS INCLUSE 🚗",
-    "brand": "DACIA ",
-    "model": "SANDERO",
-    "price": 4490,
-    "year": 2013,
-    "km": 223000,
-    "power": 90,
-    "fuel": "Diesel",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/09/e3/18/09e3181921704db5f096bbd15644ed54dd131ed3.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117419316",
-    "sold": true
   },
   {
     "id": 10,
@@ -595,23 +542,6 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/25/01/f3/2501f331ca75092b1601a46b45cfa36f19b60bf8.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147845111"
-  },
-  {
-    "id": 40,
-    "title": "🚀 CITROËN C3 PICASSO 1.6 HDi 110 EXCLUSIVE – CT OK 2027 – ENTRETIEN SUIVI – PRIX ATTRACTIF 🚀",
-    "brand": "CITROËN",
-    "model": " C3 PICASSO",
-    "price": 2500,
-    "year": 2009,
-    "km": 250000,
-    "power": 110,
-    "fuel": "Diesel",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/5d/5b/0a/5d5b0ad1e3ef0f7de2c31867e33a55e22f8d3bd9.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3148467135"
   },
   {
     "id": 41,
