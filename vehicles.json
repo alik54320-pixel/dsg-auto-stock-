@@ -85,24 +85,6 @@
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128270951"
   },
   {
-    "id": 7,
-    "title": "🚀 VOLKSWAGEN POLO 1.4 TDI 90 BlueMotion – CONFORTLINE BUSINESS – DIESEL – GPS – APPLE CARPLAY / ANDROID AUTO – GARANTIE 12 MOIS – CT OK – AUCUN FRAIS À PRÉVOIR 🚀",
-    "brand": "VOLKSWAGEN ",
-    "model": "POLO",
-    "price": 7690,
-    "year": 2017,
-    "km": 176469,
-    "power": 90,
-    "fuel": "Diesel",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/18/fb/54/18fb541350b06172cf6f884e0458d92e15405bf7.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128265035",
-    "sold": true
-  },
-  {
     "id": 10,
     "title": "🚀 BMW X5 (F15) xDrive30dA 258 CH – 3.0d 6 CYL 4X4 – BVA 8 – 4x4 – CUIR – GPS – T.O – GARANTIE 12 MOIS CHEZ BMW – CT OK (01/2028) 🚀",
     "brand": "BMW",
@@ -307,24 +289,6 @@
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3048701171"
   },
   {
-    "id": 25,
-    "title": "CITROËN C3 Aircross 1.2 PT 131 CH - Finition Shine - Garantie 12 Mois PSA",
-    "brand": "CITROËN",
-    "model": "C3 Aircross",
-    "price": 8000,
-    "year": 2020,
-    "km": 105000,
-    "power": 131,
-    "fuel": "Essence",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/70/b3/4e/70b34efc4d171e7e72bd017b8401e2fca9c435cd.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/2892860990",
-    "sold": true
-  },
-  {
     "id": 26,
     "title": "HYUNDAI i30 1.4 i 16V S&S 100CH - BLUE INITIA DRIVE 5 PORTES - CT.OK - GARANTIE 12 MOIS By HYUNDAI",
     "brand": "HYUNDAI",
@@ -410,24 +374,6 @@
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3084063854"
   },
   {
-    "id": 31,
-    "title": "🚀 renault twingo 1.5 dci 65 – authentique – garantie 6 mois – ct ok – économique 🚀",
-    "brand": "RENAULT",
-    "model": "TWINGO",
-    "price": 2500,
-    "year": 2009,
-    "km": 233564,
-    "power": 65,
-    "fuel": "Diesel",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/2b/80/a5/2b80a5b2c4a33f6b78ed380123461e8e22906085.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147888597",
-    "sold": true
-  },
-  {
     "id": 32,
     "title": "🚀 nissan qashqai 1.5 dci 110 – connecta – caméra 360 – gps – garantie 12 mois – full options 🚀",
     "brand": "NISSAN",
@@ -460,24 +406,6 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/d1/4e/57/d14e57803d85eca39b194b6785d179855272e607.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147885429"
-  },
-  {
-    "id": 34,
-    "title": "🚀 RENAULT SCENIC III 1.6 dCi 130 BOSE – CUIR – GARANTIE 12 MOIS – FULL OPTIONS – CT OK – EXCELLENT ÉTAT 🚀",
-    "brand": "RENAULT",
-    "model": "SCENIC ",
-    "price": 7690,
-    "year": 2013,
-    "km": 120598,
-    "power": 130,
-    "fuel": "Diesel",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/b8/07/4c/b8074cbad7fff5facf43274a4033e4bf1816f4f4.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147872083",
-    "sold": true
   },
   {
     "id": 36,
@@ -563,23 +491,6 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/be/73/26/be73268c7a008cd39fa2964b0068b4c3a542cbac.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147837472"
-  },
-  {
-    "id": 42,
-    "title": "🚀 peugeot 308 sw 1.6 hdi 110 premium – clim – radar – attelage – petit prix – ct ok (07/2027) 🚀",
-    "brand": "PEUGEOT",
-    "model": "308 SW",
-    "price": 1500,
-    "year": 2009,
-    "km": 210000,
-    "power": 110,
-    "fuel": "Diesel",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/61/54/13/61541354dc1f0b1394dc1929f6b04f695f4063b2.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3145113234"
   },
   {
     "id": 43,
