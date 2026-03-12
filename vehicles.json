@@ -594,7 +594,8 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/00/bc/1600bcd7ff6e1882dd370565470c1df40eb34b30.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154717797"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154717797",
+    "sold": true
   },
   {
     "id": 50,
@@ -680,5 +681,39 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/28/94/b72894532237eb2f6f791dbf4a0bdd48d1dc1b6b.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3152163268"
+  },
+  {
+    "id": 55,
+    "title": "CITROEN BERLINGO 1.6 HDi 115 PACK MULTISPACE - ATTACHE REMORQUE - LED - BLUETOOTH - CT.OK - GARANTIE 12 MOIS By LABEL CITROEN",
+    "brand": "CITROEN",
+    "model": "BERLINGO",
+    "price": 7190,
+    "year": 2012,
+    "km": 165000,
+    "power": 115,
+    "fuel": "Diesel",
+    "gearbox": "Manuelle",
+    "description": "",
+    "photos": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/e6/14/21/e61421cefb58fc0d22dc614c4649c63ac9a9ac65.jpg?rule=ad-large"
+    ],
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154696568"
+  },
+  {
+    "id": 56,
+    "title": "🚀 toyota proace city verso medium dynamic 1.5 d-4d 100 bvm6 – carplay – gps – 5 places – garantie 12 mois by label 🚀",
+    "brand": "TOYOTA",
+    "model": "PROACE CITY",
+    "price": 20790,
+    "year": 2021,
+    "km": 47290,
+    "power": 100,
+    "fuel": "Diesel",
+    "gearbox": "Manuelle",
+    "description": "",
+    "photos": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/07/96/1a/07961ae502dd0c2fe31f51200555b4db67ffdb6e.jpg?rule=ad-large"
+    ],
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3158537564"
   }
 ]
