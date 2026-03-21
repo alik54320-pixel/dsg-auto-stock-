@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "🚀 HONDA CIVIC 1.0 i-VTEC 126 ELEGANCE SPORT LINE – ESSENCE – CARPLAY / ANDROID AUTO – CAMÉRA – GARANTIE 12 MOIS CHEZ HONDA – CT OK 2028 🚀",
+    "title": "🚀 HONDA CIVIC 1.0 I-VTEC 126 ELEGANCE SPORT LINE – ESSENCE – CARPLAY / ANDROID AUTO – CAMÉRA – GARANTIE 12 MOIS CHEZ HONDA – CT OK 2028 🚀",
     "brand": "HONDA",
     "model": "CIVIC",
     "price": 14290,
@@ -14,11 +14,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/80/b0/4f/80b04f41fde2b3ea43f18fa179b8ecac0b50a71b.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128309959"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128309959",
+    "sold": false
   },
   {
     "id": 4,
-    "title": "🚀 opel mokka 1.7 cdti 130 cosmo pack – bva – diesel – cuir – suv confort & fiable – garantie 12 mois – ct ok 2028 🚀",
+    "title": "🚀 OPEL MOKKA 1.7 CDTI 130 COSMO PACK – BVA – DIESEL – CUIR – SUV CONFORT & FIABLE – GARANTIE 12 MOIS – CT OK 2028 🚀",
     "brand": "OPEL",
     "model": "MOKKA",
     "price": 7500,
@@ -31,11 +32,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/38/7e/ac/387eac77a2d1e1428cbb5709d8a905a36fbc03cd.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128282834"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128282834",
+    "sold": false
   },
   {
     "id": 5,
-    "title": "🚀 fiat 500 1.2 8v 69 lounge – essence – clim – ct ok 2028 – garantie 6 mois incluse 🚀",
+    "title": "🚀 FIAT 500 1.2 8V 69 LOUNGE – ESSENCE – CLIM – CT OK 2028 – GARANTIE 6 MOIS INCLUSE 🚀",
     "brand": "FIAT",
     "model": "500",
     "price": 4290,
@@ -48,12 +50,13 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/50/b2/40/50b240b1dc78eeb7cfb27dd05e47098bdce74b23.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128275441"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128275441",
+    "sold": false
   },
   {
     "id": 6,
-    "title": "🚀 CITROËN C2 1.4i 75 FURIO – ESSENCE – 3 PORTES – CT OK 2028 – IDÉALE JEUNE CONDUCTEUR / PETIT BUDGET 🚀",
-    "brand": "CITROËN ",
+    "title": "🚀 CITROËN C2 1.4I 75 FURIO – ESSENCE – 3 PORTES – CT OK 2028 – IDÉALE JEUNE CONDUCTEUR / PETIT BUDGET 🚀",
+    "brand": "CITROËN",
     "model": "C2",
     "price": 2500,
     "year": 2008,
@@ -65,11 +68,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/d7/91/98d7916af4674b064f052fe4c11136e28e17faef.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128270951"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128270951",
+    "sold": false
   },
   {
     "id": 10,
-    "title": "🚀 BMW X5 (F15) xDrive30dA 258 CH – 3.0d 6 CYL 4X4 – BVA 8 – 4x4 – CUIR – GPS – T.O – GARANTIE 12 MOIS CHEZ BMW – CT OK (01/2028) 🚀",
+    "title": "🚀 BMW X5 (F15) XDRIVE30DA 258 CH – 3.0D 6 CYL 4X4 – BVA 8 – 4X4 – CUIR – GPS – T.O – GARANTIE 12 MOIS CHEZ BMW – CT OK (01/2028) 🚀",
     "brand": "BMW",
     "model": "X5",
     "price": 20490,
@@ -82,11 +86,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/4c/69/fa/4c69fad3568726a04955fa4b26dc29edb44dc4c7.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117413185"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117413185",
+    "sold": false
   },
   {
     "id": 11,
-    "title": "🚀 FORD ECOSPORT 1.5 TDCi 95 TITANIUM – SUV DIESEL – DISTRIBUTION OK – VIDANGE 5W30 – GARANTIE 12 MOIS by LABEL – CT OK (01/2028) 🚀",
+    "title": "🚀 FORD ECOSPORT 1.5 TDCI 95 TITANIUM – SUV DIESEL – DISTRIBUTION OK – VIDANGE 5W30 – GARANTIE 12 MOIS BY LABEL – CT OK (01/2028) 🚀",
     "brand": "FORD",
     "model": "ECOSPORT",
     "price": 6490,
@@ -100,11 +105,12 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/83/f1/6b/83f16b21f2db5469526a48d00bc0565162955b94.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117410004",
-    "color": ""
+    "color": "",
+    "sold": false
   },
   {
     "id": 12,
-    "title": "🚀 peugeot 308 allure 1.2 thp 110 – moteur neuf – distribution dayco neuve – entretien neuf – garantie 12 mois psa – berline 5 places – ct ok (01/2028) 🚀",
+    "title": "🚀 PEUGEOT 308 ALLURE 1.2 THP 110 – MOTEUR NEUF – DISTRIBUTION DAYCO NEUVE – ENTRETIEN NEUF – GARANTIE 12 MOIS PSA – BERLINE 5 PLACES – CT OK (01/2028) 🚀",
     "brand": "PEUGEOT",
     "model": "308",
     "price": 7990,
@@ -117,11 +123,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/aa/0b/16aa0b1eb08bc4fc1c67f71f65c246f36cd9feba.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117408349"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117408349",
+    "sold": false
   },
   {
     "id": 13,
-    "title": "🚀 NISSAN QASHQAI 1.2 DIG-T 115 N-CONNECTA XTRONIC – BVA – GPS – CAMÉRA – RADARS AV/AR – CLIM AUTO BI-ZONE – MOTEUR À CHAÎNE – SUV 5 PLACES – CT OK – GARANTIE 12 MOIS by LABEL 🚀",
+    "title": "🚀 NISSAN QASHQAI 1.2 DIG-T 115 N-CONNECTA XTRONIC – BVA – GPS – CAMÉRA – RADARS AV/AR – CLIM AUTO BI-ZONE – MOTEUR À CHAÎNE – SUV 5 PLACES – CT OK – GARANTIE 12 MOIS BY LABEL 🚀",
     "brand": "NISSAN",
     "model": "QASHQAI",
     "price": 8990,
@@ -135,11 +142,12 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/d8/06/f9/d806f9ed46b207aa17cb2a508f56a9cf01508373.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117405067",
-    "color": ""
+    "color": "",
+    "sold": false
   },
   {
     "id": 14,
-    "title": "🚗 PEUGEOT 308 1.6 HDi 110 PREMIUM – 10/2009 – 200.000 km – CT OK 01/2028 – GARANTIE 6 MOIS BY PSA 🚗",
+    "title": "🚗 PEUGEOT 308 1.6 HDI 110 PREMIUM – 10/2009 – 200.000 KM – CT OK 01/2028 – GARANTIE 6 MOIS BY PSA 🚗",
     "brand": "PEUGEOT",
     "model": "308",
     "price": 2990,
@@ -153,11 +161,12 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/91/25/c6/9125c666c4e78996cf942ab7be9b32e2bb1c57d1.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117399208",
-    "color": ""
+    "color": "",
+    "sold": false
   },
   {
     "id": 15,
-    "title": "🚗 FORD B-MAX 1.0 EcoBoost 125 TITANIUM – 03/2017 – 6 MOIS GARANTIE – CT.OK (12/2027) – FULL OPTIONS 🚗",
+    "title": "🚗 FORD B-MAX 1.0 ECOBOOST 125 TITANIUM – 03/2017 – 6 MOIS GARANTIE – CT.OK (12/2027) – FULL OPTIONS 🚗",
     "brand": "FORD",
     "model": "B-MAX",
     "price": 6990,
@@ -170,11 +179,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/4a/7a/bb/4a7abb424f1174a5fb3a5734bb32efbc44ca731c.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3107473482"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3107473482",
+    "sold": false
   },
   {
     "id": 16,
-    "title": "🚙 FORD FOCUS 1.0 EcoBoost 125 SYNC EDITION – TITANIUM – GRIS MÉTALLISÉ – GARANTIE 12 MOIS – CT.OK (12/2027) – FULL OPTIONS 🚙",
+    "title": "🚙 FORD FOCUS 1.0 ECOBOOST 125 SYNC EDITION – TITANIUM – GRIS MÉTALLISÉ – GARANTIE 12 MOIS – CT.OK (12/2027) – FULL OPTIONS 🚙",
     "brand": "FORD",
     "model": "FOCUS",
     "price": 6990,
@@ -187,11 +197,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/e2/fe/e7/e2fee7c664addadd4bb2efe5b7c10c0b1cec92f3.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3106127233"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3106127233",
+    "sold": false
   },
   {
     "id": 17,
-    "title": "🚙 MERCEDES GLA 220d 177ch SENSATION – SUV PREMIUM – 7G-DCT – CUIR – GARANTIE 12 MOIS MERCEDES – CT.OK (12/2027) – FULL OPTIONS 🚙",
+    "title": "🚙 MERCEDES GLA 220D 177CH SENSATION – SUV PREMIUM – 7G-DCT – CUIR – GARANTIE 12 MOIS MERCEDES – CT.OK (12/2027) – FULL OPTIONS 🚙",
     "brand": "MERCEDES",
     "model": "GLA",
     "price": 16490,
@@ -204,13 +215,14 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/63/f4/7c/63f47c6134e29e97710aee8e647a46eb71d3236c.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3106103350"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3106103350",
+    "sold": false
   },
   {
     "id": 20,
-    "title": "🔥 CITROËN C4 PICASSO 2.0 BlueHDi 150ch Intensive – GPS TOMTOM – GARANTIE 12 MOIS – CT.OK – LOOK FAMILIAL & CONFORT 🔥",
+    "title": "🔥 CITROËN C4 PICASSO 2.0 BLUEHDI 150CH INTENSIVE – GPS TOMTOM – GARANTIE 12 MOIS – CT.OK – LOOK FAMILIAL & CONFORT 🔥",
     "brand": "CITROËN",
-    "model": " C4 PICASSO",
+    "model": "C4 PICASSO",
     "price": 6990,
     "year": 2015,
     "km": 167000,
@@ -221,11 +233,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/10/39/b8/1039b85ffb14982839ba63148d60b20c3ce68f8f.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3048835525"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3048835525",
+    "sold": false
   },
   {
     "id": 21,
-    "title": "🔥 RENAULT GRAND SCENIC III 1.6 dCi 130ch Bose 7 Places – CT.OK – CUIR – GPS TOMTOM – GARANTIE 6 MOIS By LABEL GARANTIE 🔥",
+    "title": "🔥 RENAULT GRAND SCENIC III 1.6 DCI 130CH BOSE 7 PLACES – CT.OK – CUIR – GPS TOMTOM – GARANTIE 6 MOIS BY LABEL GARANTIE 🔥",
     "brand": "RENAULT",
     "model": "GRAND SCENIC III",
     "price": 5500,
@@ -238,11 +251,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/8f/c8/8e/8fc88ee358c24ba233df9b23bd18efaf700d3f08.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3048802487"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3048802487",
+    "sold": false
   },
   {
     "id": 22,
-    "title": "🔥 OPEL MERIVA 1.6 CDTI 136 CH COSMO PACK – CT.OK – MONOSPACE FAMILIAL – GRIS – GARANTIE 12 MOIS By DSG AUTO 🔥",
+    "title": "🔥 OPEL MERIVA 1.6 CDTI 136 CH COSMO PACK – CT.OK – MONOSPACE FAMILIAL – GRIS – GARANTIE 12 MOIS BY DSG AUTO 🔥",
     "brand": "OPEL",
     "model": "MERIVA",
     "price": 6990,
@@ -255,13 +269,14 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/d4/43/23/d4432375f0260c3cf95533c5b22d01dbef20862f.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3048751942"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3048751942",
+    "sold": false
   },
   {
     "id": 26,
-    "title": "HYUNDAI i30 1.4 i 16V S&S 100CH - BLUE INITIA DRIVE 5 PORTES - CT.OK - GARANTIE 12 MOIS By HYUNDAI",
+    "title": "HYUNDAI I30 1.4 I 16V S&S 100CH - BLUE INITIA DRIVE 5 PORTES - CT.OK - GARANTIE 12 MOIS BY HYUNDAI",
     "brand": "HYUNDAI",
-    "model": "i30 ",
+    "model": "i30",
     "price": 8000,
     "year": 2016,
     "km": 132000,
@@ -272,11 +287,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/3d/c5/77/3dc577dad600aea44112b1e9497bbe3eedf46be8.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/2860198857"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/2860198857",
+    "sold": false
   },
   {
     "id": 27,
-    "title": "🚀 audi q7 3.0 v6 tdi 233 quattro tiptronic – ambition luxe – 7 places – cuir – gps – pare brise fissure vente export marchand mecano –🚀",
+    "title": "🚀 AUDI Q7 3.0 V6 TDI 233 QUATTRO TIPTRONIC – AMBITION LUXE – 7 PLACES – CUIR – GPS – PARE BRISE FISSURE VENTE EXPORT MARCHAND MECANO –🚀",
     "brand": "AUDI",
     "model": "Q7",
     "price": 4000,
@@ -290,11 +306,12 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/43/97/03/4397033a720001e442905ccdae48fa04392581cc.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3136425640",
-    "color": ""
+    "color": "",
+    "sold": false
   },
   {
     "id": 28,
-    "title": "🚀 HONDA JAZZ CROSSTAR 1.5 i-MMD e:HEV 109 EXCLUSIVE – HYBRIDE – BVA CVT – APPLE CARPLAY / ANDROID AUTO – GPS – CAMÉRA – GARANTIE 12 MOIS CHEZ HONDA – CT OK 🚀",
+    "title": "🚀 HONDA JAZZ CROSSTAR 1.5 I-MMD E:HEV 109 EXCLUSIVE – HYBRIDE – BVA CVT – APPLE CARPLAY / ANDROID AUTO – GPS – CAMÉRA – GARANTIE 12 MOIS CHEZ HONDA – CT OK 🚀",
     "brand": "HONDA",
     "model": "JAZZ CROSSTAR",
     "price": 12490,
@@ -307,11 +324,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/8a/0d/0b/8a0d0b3d0c1612e6e91dc3deb0ad39785cf6ba01.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117406890"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117406890",
+    "sold": false
   },
   {
     "id": 29,
-    "title": "🚚 RENAULT MASTER 3 L3H1 – 2.3 dCi 125 – CT.OK -6 MOIS – 7 PLACES – BENNE + VÉRIN HYDRAULIQUE 🚚",
+    "title": "🚚 RENAULT MASTER 3 L3H1 – 2.3 DCI 125 – CT.OK -6 MOIS – 7 PLACES – BENNE + VÉRIN HYDRAULIQUE 🚚",
     "brand": "RENAULT",
     "model": "MASTER 3",
     "price": 9990,
@@ -325,11 +343,12 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/9c/23/af/9c23af590aee57b6cbb0abd0b5f36e0e6bdf9978.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/utilitaires/3093044709",
-    "color": ""
+    "color": "",
+    "sold": true
   },
   {
     "id": 30,
-    "title": "🚘 SKODA OCTAVIA 2.0 TDI 116 DSG7 STYLE – GARANTIE 12 MOIS By SKODA – BVA – CAR PLAY – BERLINE CT.OK 🚘",
+    "title": "🚘 SKODA OCTAVIA 2.0 TDI 116 DSG7 STYLE – GARANTIE 12 MOIS BY SKODA – BVA – CAR PLAY – BERLINE CT.OK 🚘",
     "brand": "SKODA",
     "model": "OCTAVIA",
     "price": 16000,
@@ -342,11 +361,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/62/c8/49/62c8497d06193a4920d0d06689eb8a82933957ef.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3084063854"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3084063854",
+    "sold": false
   },
   {
     "id": 32,
-    "title": "🚀 nissan qashqai 1.5 dci 110 – connecta – caméra 360 – gps – garantie 12 mois – full options 🚀",
+    "title": "🚀 NISSAN QASHQAI 1.5 DCI 110 – CONNECTA – CAMÉRA 360 – GPS – GARANTIE 12 MOIS – FULL OPTIONS 🚀",
     "brand": "NISSAN",
     "model": "QASHQAI",
     "price": 7990,
@@ -359,11 +379,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/be/ce/4f/bece4f4d735872ad6bc4d33ef9bfb3ffbb72adff.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147887718"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147887718",
+    "sold": false
   },
   {
     "id": 37,
-    "title": "VOLKSWAGEN GOLF 7 VII 1.6 TDi 110 CONFORTLINE - FORT KM - 3 PORTES - CT.OK",
+    "title": "VOLKSWAGEN GOLF 7 VII 1.6 TDI 110 CONFORTLINE - FORT KM - 3 PORTES - CT.OK",
     "brand": "VOLKSWAGEN",
     "model": "GOLF 7",
     "price": 4990,
@@ -376,13 +397,14 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/3d/b2/64/3db2647bd192bded4ea9eccc96490d90d41928ad.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147853128"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147853128",
+    "sold": false
   },
   {
     "id": 38,
-    "title": "DACIA DUSTER 1.2 TCe 125 4X2 EURO6 – PRESTIGE – FAIBLE KM – CT.OK – EXCELLENT ÉTAT – GARANTIE 12 MOIS 🚀",
+    "title": "DACIA DUSTER 1.2 TCE 125 4X2 EURO6 – PRESTIGE – FAIBLE KM – CT.OK – EXCELLENT ÉTAT – GARANTIE 12 MOIS 🚀",
     "brand": "DACIA",
-    "model": "DUSTER ",
+    "model": "DUSTER",
     "price": 9490,
     "year": 2015,
     "km": 78627,
@@ -393,11 +415,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/02/0b/c6/020bc6e0a106e702664e267dea23646999595346.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147850704"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147850704",
+    "sold": false
   },
   {
     "id": 41,
-    "title": "🚀 VOLVO V40 D3 2.0 D 150ch R-DESIGN – SPORT – XENON GPS – CT.OK – EXCELLENT ÉTAT – GARANTIE 12 MOIS 🚀",
+    "title": "🚀 VOLVO V40 D3 2.0 D 150CH R-DESIGN – SPORT – XENON GPS – CT.OK – EXCELLENT ÉTAT – GARANTIE 12 MOIS 🚀",
     "brand": "VOLVO",
     "model": "V40",
     "price": 11990,
@@ -410,11 +433,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/be/73/26/be73268c7a008cd39fa2964b0068b4c3a542cbac.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147837472"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147837472",
+    "sold": false
   },
   {
     "id": 43,
-    "title": "VOLKSWAGEN GOLF 8 R – 2.0 TSI 320 DSG7 – PACK R-PERFORMANCE – CT.OK – GARANTIE 12 MOIS By LABEL VW – DEPOT VENTE",
+    "title": "VOLKSWAGEN GOLF 8 R – 2.0 TSI 320 DSG7 – PACK R-PERFORMANCE – CT.OK – GARANTIE 12 MOIS BY LABEL VW – DEPOT VENTE",
     "brand": "VOLKSWAGEN",
     "model": "GOLF 8 R",
     "price": 37990,
@@ -427,12 +451,13 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/4b/ca/1b/4bca1bcb285f8b5ad05259f299f7a8e8f3995593.jpg?rule=ad-image"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3067259462"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3067259462",
+    "sold": false
   },
   {
     "id": 47,
-    "title": "MERCEDES Classe A 180 d 109ch 7G-DCT SENSATION - GARANTIE 12 MOIS By MERCEDES - CT.OK - 1ER MAIN - ENTRETIEN RESEAU MERCEDES",
-    "brand": "Mercedes-Benz",
+    "title": "MERCEDES CLASSE A 180 D 109CH 7G-DCT SENSATION - GARANTIE 12 MOIS BY MERCEDES - CT.OK - 1ER MAIN - ENTRETIEN RESEAU MERCEDES",
+    "brand": "MERCEDES",
     "model": "Classe A 180 d",
     "price": 9990,
     "year": 2016,
@@ -444,11 +469,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/03/a9/1603a9965dba6bdf131b66a0a5ef200f4bbef80b.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154714696"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154714696",
+    "sold": false
   },
   {
     "id": 48,
-    "title": "JEEP RENEGADE 1.6 MULTIJET 95 CH BROOKLYN EDITION S&S - CT.OK - GARANTIE 12 MOIS By JEEP",
+    "title": "JEEP RENEGADE 1.6 MULTIJET 95 CH BROOKLYN EDITION S&S - CT.OK - GARANTIE 12 MOIS BY JEEP",
     "brand": "JEEP",
     "model": "RENEGADE",
     "price": 8790,
@@ -461,11 +487,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/e2/ed/11/e2ed116eb4d5380e92bc63649edce2fbf84f0809.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154716263"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154716263",
+    "sold": false
   },
   {
     "id": 50,
-    "title": "DS DS5 2.0 HDi 150ch SO CHIC S&S - GARANTIE 12 MOIS By DS CITROEN LABEL - CT.OK - PHASE 2",
+    "title": "DS DS5 2.0 HDI 150CH SO CHIC S&S - GARANTIE 12 MOIS BY DS CITROEN LABEL - CT.OK - PHASE 2",
     "brand": "DS",
     "model": "DS 5",
     "price": 10490,
@@ -478,11 +505,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/38/f6/d0/38f6d0a18c79d83f43555de8e541ce05a539515c.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154719258"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154719258",
+    "sold": false
   },
   {
     "id": 51,
-    "title": "RENAULT CAPTUR 0.9 TCe 90ch Stop&Start Energy Intens - CT.OK - GARANTIE 12 MOIS",
+    "title": "RENAULT CAPTUR 0.9 TCE 90CH STOP&START ENERGY INTENS - CT.OK - GARANTIE 12 MOIS",
     "brand": "RENAULT",
     "model": "CAPTUR",
     "price": 9790,
@@ -495,11 +523,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/70/90/e0/7090e0ed6f1750ad668b428d03d0e32387866a9d.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154721888"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154721888",
+    "sold": false
   },
   {
     "id": 52,
-    "title": "MAZDA RX-8 1.3 i Coupé 231 cv PERFORMANCE – BI-ROTOR RENESIS",
+    "title": "MAZDA RX-8 1.3 I COUPÉ 231 CV PERFORMANCE – BI-ROTOR RENESIS",
     "brand": "MAZDA",
     "model": "RX-8",
     "price": 5990,
@@ -517,8 +546,8 @@
   },
   {
     "id": 53,
-    "title": "MERCEDES Classe GLC 250 AMG SPORTLINE 211ch 9G-TRONIC 4Matic + - GARANTIE 12 MOIS By MERCEDES - CT.OK",
-    "brand": "MERCEDES BENZ",
+    "title": "MERCEDES CLASSE GLC 250 AMG SPORTLINE 211CH 9G-TRONIC 4MATIC + - GARANTIE 12 MOIS BY MERCEDES - CT.OK",
+    "brand": "MERCEDES",
     "model": "CLASSE GLC",
     "price": 20990,
     "year": 2016,
@@ -530,11 +559,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/e2/37/ff/e237ff9a30d71fac16478bca568ece9dbfb04685.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154712710"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154712710",
+    "sold": false
   },
   {
     "id": 54,
-    "title": "MERCEDES Classe A 45 S AMG 2.0 turbo 421ch 8G-DCT Speedshift AMG 4Matic+ Aero8 - GARANTIE 12 MOIS By MERCEDES - CT.OK - 1ER MAIN - ENTRETIEN RESEAU MERCEDES 57",
+    "title": "MERCEDES CLASSE A 45 S AMG 2.0 TURBO 421CH 8G-DCT SPEEDSHIFT AMG 4MATIC+ AERO8 - GARANTIE 12 MOIS BY MERCEDES - CT.OK - 1ER MAIN - ENTRETIEN RESEAU MERCEDES 57",
     "brand": "MERCEDES",
     "model": "CLASSE A 45S AMG",
     "price": 41990,
@@ -547,11 +577,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/28/94/b72894532237eb2f6f791dbf4a0bdd48d1dc1b6b.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3152163268"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3152163268",
+    "sold": false
   },
   {
     "id": 56,
-    "title": "🚀 toyota proace city verso medium dynamic 1.5 d-4d 100 bvm6 – carplay – gps – 5 places – garantie 12 mois by label 🚀",
+    "title": "🚀 TOYOTA PROACE CITY VERSO MEDIUM DYNAMIC 1.5 D-4D 100 BVM6 – CARPLAY – GPS – 5 PLACES – GARANTIE 12 MOIS BY LABEL 🚀",
     "brand": "TOYOTA",
     "model": "PROACE CITY",
     "price": 20790,
@@ -564,11 +595,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/07/96/1a/07961ae502dd0c2fe31f51200555b4db67ffdb6e.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3158537564"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3158537564",
+    "sold": false
   },
   {
     "id": 57,
-    "title": "🚀 RENAULT TALISMAN ESTATE 2.0 BLUE dCi 200 S-EDITION EDC – CUIR – SIÈGES MASSANTS – FULL LED – JANTES NOIIRES – GPS – GARANTIE 🚀",
+    "title": "🚀 RENAULT TALISMAN ESTATE 2.0 BLUE DCI 200 S-EDITION EDC – CUIR – SIÈGES MASSANTS – FULL LED – JANTES NOIIRES – GPS – GARANTIE 🚀",
     "brand": "RENAULT",
     "model": "TALISMAN",
     "price": 10990,
@@ -581,11 +613,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/69/9e/f0/699ef016951cd37d1efd6220ef401abe63d86205.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162568140"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162568140",
+    "sold": true
   },
   {
     "id": 58,
-    "title": "🚀 PEUGEOT 3008 1.2 i THP 130 ALLURE EAT8 – BOÎTE AUTO – GPS – GARANTIE 12 MOIS 🚀",
+    "title": "🚀 PEUGEOT 3008 1.2 I THP 130 ALLURE EAT8 – BOÎTE AUTO – GPS – GARANTIE 12 MOIS 🚀",
     "brand": "PEUGEOT",
     "model": "3008",
     "price": 9790,
@@ -598,11 +631,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/db/29/0c/db290cf3e0a707dd3d84be6d84e2d1b81d2628a1.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162560103"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162560103",
+    "sold": false
   },
   {
     "id": 59,
-    "title": "🚀 AUDI A3 SPORTBACK e-tron 1.4 TFSI 204 AMBITION LUXE S-TRONIC – CUIR – HYBRIDE – GARANTIE 6 MOIS 🚀",
+    "title": "🚀 AUDI A3 SPORTBACK E-TRON 1.4 TFSI 204 AMBITION LUXE S-TRONIC – CUIR – HYBRIDE – GARANTIE 6 MOIS 🚀",
     "brand": "AUDI",
     "model": "A3 E-TRON 204",
     "price": 9590,
@@ -615,11 +649,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/92/8f/0e/928f0ed946e7a7383539d2beb07fddbfaa2f62c8.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162564839"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162564839",
+    "sold": false
   },
   {
     "id": 60,
-    "title": "🚀 PEUGEOT 3008 2.0 HDi 163 ALLURE BVA – GPS – BLUETOOTH – BOÎTE AUTO – GARANTIE 6 MOIS 🚀",
+    "title": "🚀 PEUGEOT 3008 2.0 HDI 163 ALLURE BVA – GPS – BLUETOOTH – BOÎTE AUTO – GARANTIE 6 MOIS 🚀",
     "brand": "PEUGEOT",
     "model": "3008",
     "price": 5990,
@@ -632,11 +667,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/75/5c/6d/755c6dea7b1df6a876a21c937f96748b77522c53.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162557660"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162557660",
+    "sold": false
   },
   {
     "id": 61,
-    "title": "🚀 PEUGEOT 308 1.2 i 82 STYLE – BLUETOOTH – FAIBLE KM – GARANTIE 6 MOIS 🚀",
+    "title": "🚀 PEUGEOT 308 1.2 I 82 STYLE – BLUETOOTH – FAIBLE KM – GARANTIE 6 MOIS 🚀",
     "brand": "PEUGEOT",
     "model": "308",
     "price": 4990,
@@ -649,11 +685,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/66/af/d7/66afd7ab489eb054db8658e2a32b038f3679db98.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162561206"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162561206",
+    "sold": false
   },
   {
     "id": 62,
-    "title": "🚀 CITROËN C4 PICASSO 1.2 i 130 FEEL – GPS – RADARS – CLIM AUTO – GARANTIE 6 MOIS 🚀",
+    "title": "🚀 CITROËN C4 PICASSO 1.2 I 130 FEEL – GPS – RADARS – CLIM AUTO – GARANTIE 6 MOIS 🚀",
     "brand": "CITROËN",
     "model": "C4 PICASSO",
     "price": 4790,
@@ -666,11 +703,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/c5/e9/48/c5e9485868a1a89adf94c2caf4d7671fabb9a826.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162562762"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162562762",
+    "sold": true
   },
   {
     "id": 63,
-    "title": "🚀 RENAULT CLIO IV 4 ESTATE 1.5 dCi 90 – INTENS – GARANTIE 6 MOIS – CT OK – ENTRETIEN RENAULT 🚀",
+    "title": "🚀 RENAULT CLIO IV 4 ESTATE 1.5 DCI 90 – INTENS – GARANTIE 6 MOIS – CT OK – ENTRETIEN RENAULT 🚀",
     "brand": "RENAULT",
     "model": "CLIO IV",
     "price": 4200,
@@ -683,11 +721,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/3b/24/eb/3b24eb787cc0cbc2733625f6fc23dd9c6b93c74a.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147848155"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147848155",
+    "sold": false
   },
   {
     "id": 64,
-    "title": "🚀 PEUGEOT 308 1.6 VTi 120 PREMIUM PACK – CLIM AUTO – BLUETOOTH – GARANTIE 6 MOIS 🚀",
+    "title": "🚀 PEUGEOT 308 1.6 VTI 120 PREMIUM PACK – CLIM AUTO – BLUETOOTH – GARANTIE 6 MOIS 🚀",
     "brand": "PEUGEOT",
     "model": "308",
     "price": 4390,
@@ -700,11 +739,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/1e/b2/ac/1eb2aced0727cf202d2edd8bd0fcc73f5b9995fd.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3163109422"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3163109422",
+    "sold": false
   },
   {
     "id": 65,
-    "title": "🚀 opel astra gtc 1.9 cdti 120 cosmo – coupé sport – diesel – prix mini 🚀",
+    "title": "🚀 OPEL ASTRA GTC 1.9 CDTI 120 COSMO – COUPÉ SPORT – DIESEL – PRIX MINI 🚀",
     "brand": "OPEL",
     "model": "ASTRA",
     "price": 2000,
@@ -717,11 +757,12 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/a6/29/b4/a629b433af294b5f3275e5660d25781f6ee66a62.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162569010"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162569010",
+    "sold": false
   },
   {
     "id": 66,
-    "title": "🚀 CITROËN C3 1.2 i 82 GRAPHIC – CARPLAY – ÉCRAN TACTILE – GARANTIE 6 MOIS 🚀",
+    "title": "🚀 CITROËN C3 1.2 I 82 GRAPHIC – CARPLAY – ÉCRAN TACTILE – GARANTIE 6 MOIS 🚀",
     "brand": "CITROËN",
     "model": "C3",
     "price": 5790,
@@ -735,6 +776,7 @@
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/e6/77/01/e67701814d9c24a420c55eda67567c3e79634a78.jpg?rule=ad-large"
     ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162566481"
+    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162566481",
+    "sold": false
   }
 ]
