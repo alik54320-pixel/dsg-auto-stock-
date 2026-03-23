@@ -180,7 +180,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/4a/7a/bb/4a7abb424f1174a5fb3a5734bb32efbc44ca731c.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3107473482",
-    "sold": false
+    "sold": true
   },
   {
     "id": 16,
