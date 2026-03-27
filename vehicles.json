@@ -671,10 +671,10 @@
   },
   {
     "id": 67,
-    "title": "Renault Trafic Tpmr 1.6 dCi 90ch - 8 Places - Handicapé - CT.OK - Garantie 12 MOIS",
+    "title": "🚀 RENAULT TRAFIC 1.6 dCi 90 L1H1 - TPMR EPMR – 8 PLACES – 89 000 KM – RAMPE FAUTEUIL – CARPLAY – GARANTIE 12 MOIS 🚀",
     "brand": "Renault",
     "model": "Trafic",
-    "price": 19990,
+    "price": 20990,
     "year": 2015,
     "km": 89298,
     "power": 90,
@@ -682,7 +682,9 @@
     "gearbox": "Manuelle",
     "color": "Gris",
     "description": "Tpmr",
-    "photos": [],
+    "photos": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/4f/5e/ca/4f5eca8d759ba313d6db33902c85284933c83f51.jpg?rule=ad-private"
+    ],
     "leboncoinUrl": "#",
     "dateAjout": "2026-03-21"
   },
@@ -720,6 +722,24 @@
     "description": "",
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/a4/59/05/a4590556458ed139d7dfe3ca55f6208c79a426ad.jpg?rule=ad-private"
+    ],
+    "leboncoinUrl": "#"
+  },
+  {
+    "id": 70,
+    "title": "🚀 suzuki swift 1.0 boosterjet 111 privilège – gps – camera – garantie 12 mois 🚀",
+    "brand": "Suzuki",
+    "model": "Swift",
+    "price": 9990,
+    "year": 2018,
+    "km": 100000,
+    "power": 111,
+    "fuel": "Essence",
+    "gearbox": "Manuelle",
+    "color": "",
+    "description": "",
+    "photos": [
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/40/1a/99/401a99670d1fe3737d2570f162d1a90ffe620a48.jpg?rule=ad-private"
     ],
     "leboncoinUrl": "#"
   }
