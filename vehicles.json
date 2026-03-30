@@ -36,24 +36,6 @@
     "sold": false
   },
   {
-    "id": 5,
-    "title": "🚀 FIAT 500 1.2 8V 69 LOUNGE – ESSENCE – CLIM – CT OK 2028 – GARANTIE 6 MOIS INCLUSE 🚀",
-    "brand": "FIAT",
-    "model": "500",
-    "price": 4290,
-    "year": 2009,
-    "km": 121000,
-    "power": 69,
-    "fuel": "Essence",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/50/b2/40/50b240b1dc78eeb7cfb27dd05e47098bdce74b23.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128275441",
-    "sold": true
-  },
-  {
     "id": 6,
     "title": "🚀 CITROËN C2 1.4I 75 FURIO – ESSENCE – 3 PORTES – CT OK 2028 – IDÉALE JEUNE CONDUCTEUR / PETIT BUDGET 🚀",
     "brand": "CITROËN",
@@ -275,42 +257,6 @@
     "sold": false
   },
   {
-    "id": 28,
-    "title": "🚀 HONDA JAZZ CROSSTAR 1.5 I-MMD E:HEV 109 EXCLUSIVE – HYBRIDE – BVA CVT – APPLE CARPLAY / ANDROID AUTO – GPS – CAMÉRA – GARANTIE 12 MOIS CHEZ HONDA – CT OK 🚀",
-    "brand": "HONDA",
-    "model": "JAZZ CROSSTAR",
-    "price": 12490,
-    "year": 2021,
-    "km": 166000,
-    "power": 109,
-    "fuel": "Hybride",
-    "gearbox": "Automatique",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/8a/0d/0b/8a0d0b3d0c1612e6e91dc3deb0ad39785cf6ba01.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117406890",
-    "sold": true
-  },
-  {
-    "id": 30,
-    "title": "🚘 SKODA OCTAVIA 2.0 TDI 116 DSG7 STYLE – GARANTIE 12 MOIS BY SKODA – BVA – CAR PLAY – BERLINE CT.OK 🚘",
-    "brand": "SKODA",
-    "model": "OCTAVIA",
-    "price": 16000,
-    "year": 2021,
-    "km": 138990,
-    "power": 116,
-    "fuel": "Diesel",
-    "gearbox": "Automatique",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/62/c8/49/62c8497d06193a4920d0d06689eb8a82933957ef.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3084063854",
-    "sold": true
-  },
-  {
     "id": 32,
     "title": "🚀 NISSAN QASHQAI 1.5 DCI 110 – CONNECTA – CAMÉRA 360 – GPS – GARANTIE 12 MOIS – FULL OPTIONS 🚀",
     "brand": "NISSAN",
@@ -344,24 +290,6 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/3d/b2/64/3db2647bd192bded4ea9eccc96490d90d41928ad.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147853128",
-    "sold": false
-  },
-  {
-    "id": 38,
-    "title": "DACIA DUSTER 1.2 TCE 125 4X2 EURO6 – PRESTIGE – FAIBLE KM – CT.OK – EXCELLENT ÉTAT – GARANTIE 12 MOIS 🚀",
-    "brand": "DACIA",
-    "model": "DUSTER",
-    "price": 9490,
-    "year": 2015,
-    "km": 78627,
-    "power": 125,
-    "fuel": "Essence",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/02/0b/c6/020bc6e0a106e702664e267dea23646999595346.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147850704",
     "sold": false
   },
   {
@@ -653,25 +581,6 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162569010",
     "sold": false
-  },
-  {
-    "id": 66,
-    "title": "🚀 CITROËN C3 1.2 I 82 GRAPHIC – CARPLAY – ÉCRAN TACTILE – GARANTIE 6 MOIS 🚀",
-    "brand": "CITROËN",
-    "model": "C3",
-    "price": 5790,
-    "year": 2018,
-    "km": 115419,
-    "power": 82,
-    "fuel": "Essence",
-    "gearbox": "Manuelle",
-    "color": "",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/e6/77/01/e67701814d9c24a420c55eda67567c3e79634a78.jpg?rule=ad-large"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162566481",
-    "sold": true
   },
   {
     "id": 67,
