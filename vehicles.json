@@ -36,24 +36,6 @@
     "sold": false
   },
   {
-    "id": 6,
-    "title": "🚀 CITROËN C2 1.4I 75 FURIO – ESSENCE – 3 PORTES – CT OK 2028 – IDÉALE JEUNE CONDUCTEUR / PETIT BUDGET 🚀",
-    "brand": "CITROËN",
-    "model": "C2",
-    "price": 2500,
-    "year": 2008,
-    "km": 165000,
-    "power": 75,
-    "fuel": "Essence",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/d7/91/98d7916af4674b064f052fe4c11136e28e17faef.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128270951",
-    "sold": false
-  },
-  {
     "id": 10,
     "title": "🚀 BMW X5 (F15) XDRIVE30DA 258 CH – 3.0D 6 CYL 4X4 – BVA 8 – 4X4 – CUIR – GPS – T.O – GARANTIE 12 MOIS CHEZ BMW – CT OK (01/2028) 🚀",
     "brand": "BMW",
@@ -328,24 +310,6 @@
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3067259462",
     "sold": false,
     "color": ""
-  },
-  {
-    "id": 47,
-    "title": "MERCEDES CLASSE A 180 D 109CH 7G-DCT SENSATION - GARANTIE 12 MOIS BY MERCEDES - CT.OK - 1ER MAIN - ENTRETIEN RESEAU MERCEDES",
-    "brand": "MERCEDES",
-    "model": "Classe A 180 d",
-    "price": 9990,
-    "year": 2016,
-    "km": 211000,
-    "power": 109,
-    "fuel": "Diesel",
-    "gearbox": "Automatique",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/03/a9/1603a9965dba6bdf131b66a0a5ef200f4bbef80b.jpg?rule=ad-large"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154714696",
-    "sold": false
   },
   {
     "id": 48,
