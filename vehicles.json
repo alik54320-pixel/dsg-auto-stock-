@@ -241,7 +241,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/28/94/b72894532237eb2f6f791dbf4a0bdd48d1dc1b6b.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3189094787",
-    "sold": false,
+    "sold": true,
     "color": ""
   },
   {
