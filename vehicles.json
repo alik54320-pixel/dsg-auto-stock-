@@ -728,24 +728,6 @@
     "sold": true
   },
   {
-    "id": 88,
-    "title": "Volkswagen Polo VI 1.6 Tdi 90 ch Comfortline DSG7 - CT.OK - GARANTIE 12 MOIS",
-    "brand": "VOLKSWAGEN",
-    "model": "POLO",
-    "price": 8990,
-    "year": 2012,
-    "km": 154000,
-    "power": 90,
-    "fuel": "Diesel",
-    "gearbox": "Automatique",
-    "color": "Gris",
-    "description": "",
-    "photos": [
-      "https://img-pa.auto1.com/img9a/f4/9af4a09a8bce29277b97656e2c2a867b/pa/max-RR27402_1002c9defc5faee27c92d557941f7ee4.jpg"
-    ],
-    "leboncoinUrl": "#"
-  },
-  {
     "id": 89,
     "title": "CITROEN C1 1.0i 68CH STYLE",
     "brand": "CITROEN",
