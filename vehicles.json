@@ -872,24 +872,6 @@
     "leboncoinUrl": "#"
   },
   {
-    "id": 95,
-    "title": "Ford Transit Tourneo Grand Connect 1.5 EcoBlue TDCi 100CH Trend CT.OK",
-    "brand": "FORD",
-    "model": "TRANSIT TOURNEO GRAND CONNECT",
-    "price": 11990,
-    "year": 2018,
-    "km": 128000,
-    "power": 100,
-    "fuel": "Diesel",
-    "gearbox": "Manuelle",
-    "color": "",
-    "description": "",
-    "photos": [
-      "https://img-pa.auto1.com/img9e/71/9e71fde9fe1bb5d97181cc60892cecb1/pa/max-JR88666_b1a6db8ecd7692d8668360e906de3414.jpg"
-    ],
-    "leboncoinUrl": "#"
-  },
-  {
     "id": 96,
     "title": "Citroen Berlingo 1.6 HDi 75CH 3 PLACES CT.OK",
     "brand": "CITROEN",
