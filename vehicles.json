@@ -727,23 +727,5 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3205048875",
     "sold": true
-  },
-  {
-    "id": 91,
-    "title": "CITROEN C4 1.6 HDi 110 TONIC CT.OK",
-    "brand": "CITROEN",
-    "model": "C4",
-    "price": 3490,
-    "year": 2009,
-    "km": 131000,
-    "power": 110,
-    "fuel": "Diesel",
-    "gearbox": "Manuelle",
-    "color": "",
-    "description": "",
-    "photos": [
-      "https://img-pa.auto1.com/img64/e2/64e2c79867411e430382b7606ff823aa/pa/max-DU53496_0c4d194334ecf4fb6e2333b7c6d4813f.jpg"
-    ],
-    "leboncoinUrl": "#"
   }
 ]
