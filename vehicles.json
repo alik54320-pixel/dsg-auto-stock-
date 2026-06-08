@@ -854,24 +854,6 @@
     "leboncoinUrl": "#"
   },
   {
-    "id": 94,
-    "title": "Renault Kadjar 1.6 dCi 130CH Energy Experience INTENS CT.OK",
-    "brand": "RENAULT",
-    "model": "KADJAR",
-    "price": 11490,
-    "year": 2016,
-    "km": 128000,
-    "power": 130,
-    "fuel": "Diesel",
-    "gearbox": "Manuelle",
-    "color": "",
-    "description": "",
-    "photos": [
-      "https://img-pa.auto1.com/img74/e1/74e163cf24feab7d0e400fa3732508e4/pa/max-EZ24096_ecfcf85b500e04971cbed74a3d3767ba.jpg"
-    ],
-    "leboncoinUrl": "#"
-  },
-  {
     "id": 96,
     "title": "Citroen Berlingo 1.6 HDi 75CH 3 PLACES CT.OK",
     "brand": "CITROEN",
