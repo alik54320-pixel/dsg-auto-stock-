@@ -729,24 +729,6 @@
     "sold": true
   },
   {
-    "id": 89,
-    "title": "CITROEN C1 1.0i 68CH STYLE",
-    "brand": "CITROEN",
-    "model": "C1",
-    "price": 3690,
-    "year": 2010,
-    "km": 86000,
-    "power": 68,
-    "fuel": "Essence",
-    "gearbox": "Manuelle",
-    "color": "",
-    "description": "",
-    "photos": [
-      "https://img-pa.auto1.com/img52/96/529689458c994cc490f1b43c3f57c2f5/pa/max-CY71307_8d29bd4636b251d8256509572ae8c5ff.jpg"
-    ],
-    "leboncoinUrl": "#"
-  },
-  {
     "id": 91,
     "title": "CITROEN C4 1.6 HDi 110 TONIC CT.OK",
     "brand": "CITROEN",
