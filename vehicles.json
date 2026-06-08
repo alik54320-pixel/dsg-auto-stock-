@@ -746,24 +746,6 @@
     "leboncoinUrl": "#"
   },
   {
-    "id": 90,
-    "title": "Peugeot 308 SW 1.6 BlueHDi 120ch Allure CT.OK",
-    "brand": "Peugeot",
-    "model": "308 SW",
-    "price": 8490,
-    "year": 2016,
-    "km": 145000,
-    "power": 120,
-    "fuel": "Diesel",
-    "gearbox": "Automatique",
-    "color": "",
-    "description": "",
-    "photos": [
-      "https://img-pa.auto1.com/img3b/5d/3b5d40b2d12519d62b6df4e6469de103/pa/max-AZ73587_0ca2e8036fcc5032d5cac8d7cac0661c.jpg"
-    ],
-    "leboncoinUrl": "#"
-  },
-  {
     "id": 91,
     "title": "CITROEN C4 1.6 HDi 110 TONIC CT.OK",
     "brand": "CITROEN",
