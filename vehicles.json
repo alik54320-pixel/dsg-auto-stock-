@@ -236,7 +236,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/5a/e5/33/5ae5339c25284b3db7b57db8bb29714b7a4aad98.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3205079751",
-    "sold": false,
+    "sold": true,
     "addedAt": 1780653742734
   },
   {
