@@ -668,7 +668,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/91/42/19/914219c6317611f142ee172cade7444fd00e8301.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "#",
-    "addedAt": 1704067200000
+    "addedAt": 1704067200000,
+    "sold": true
   },
   {
     "id": 82,
