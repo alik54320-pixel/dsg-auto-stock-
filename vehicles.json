@@ -373,7 +373,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/3d/b2/64/3db2647bd192bded4ea9eccc96490d90d41928ad.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147853128",
-    "sold": false,
+    "sold": true,
     "color": "",
     "addedAt": 1704067200000
   },
