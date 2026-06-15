@@ -374,7 +374,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/38/7e/ac/387eac77a2d1e1428cbb5709d8a905a36fbc03cd.jpg?rule=ad-image"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128282834",
-    "sold": false,
+    "sold": true,
     "color": "",
     "addedAt": 1704067200000
   },
