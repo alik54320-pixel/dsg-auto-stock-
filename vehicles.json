@@ -493,7 +493,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/4d/0a/71/4d0a71687072b0a2d51ebec6ff3891bf2ca1a49a.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3189114176",
-    "sold": false,
+    "sold": true,
     "color": "",
     "addedAt": 1704067200000
   },
