@@ -478,26 +478,6 @@
     "addedAt": 1704067200000
   },
   {
-    "id": 52,
-    "title": "MAZDA RX-8 1.3 I COUPÉ 231 CV PERFORMANCE – BI-ROTOR RENESIS",
-    "brand": "MAZDA",
-    "model": "RX-8",
-    "price": 5490,
-    "year": 2007,
-    "km": 78150,
-    "power": 231,
-    "fuel": "Essence",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/4d/0a/71/4d0a71687072b0a2d51ebec6ff3891bf2ca1a49a.jpg?rule=ad-large"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3189114176",
-    "sold": true,
-    "color": "",
-    "addedAt": 1704067200000
-  },
-  {
     "id": 53,
     "title": "MERCEDES CLASSE GLC 250 AMG SPORTLINE 211CH 9G-TRONIC 4MATIC + - GARANTIE 12 MOIS BY MERCEDES - CT.OK",
     "brand": "MERCEDES",
