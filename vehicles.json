@@ -36,7 +36,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/56/f6/69/56f669272b88eef9bf0deda4b05c3a337f229db5.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/utilitaires/3213124200",
-    "sold": false,
+    "sold": true,
     "addedAt": 1781526627252
   },
   {
