@@ -3,7 +3,7 @@
     "id": 1781526634730,
     "title": "🚀 FORD TRANSIT COURIER 1.5 TDCi 75 TREND BUSINESS – CARPLAY CT.OK – GARANTIE 12 MOIS BY FORD 🚀",
     "brand": "Ford",
-    "model": "",
+    "model": "TRANSIT COURIER",
     "price": 8490,
     "year": 2018,
     "km": 118500,
@@ -17,7 +17,9 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/utilitaires/3213124799",
     "sold": false,
-    "addedAt": 1781526634730
+    "addedAt": 1781526634730,
+    "type": "Utilitaire",
+    "places": 2
   },
   {
     "id": 1781526627252,
