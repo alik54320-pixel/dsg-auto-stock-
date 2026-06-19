@@ -3,7 +3,7 @@
     "id": 1781860678627,
     "title": "VOLKSWAGEN GOLF 8 R – 2.0 TSI 320 DSG7 – PACK R-PERFORMANCE – CT.OK – GARANTIE 12 MOIS By LABEL VW",
     "brand": "Volkswagen",
-    "model": "",
+    "model": "GOLF 8 R",
     "price": 37990,
     "year": 2021,
     "km": 77500,
@@ -37,7 +37,9 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3189096954",
     "sold": false,
-    "addedAt": 1781860678627
+    "addedAt": 1781860678627,
+    "type": "Voiture",
+    "places": 5
   },
   {
     "id": 1781526634730,
