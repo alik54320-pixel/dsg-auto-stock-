@@ -378,28 +378,6 @@
     "places": 5
   },
   {
-    "id": 26,
-    "title": "HYUNDAI I30 1.4 I 16V S&S 100CH - BLUE INITIA DRIVE 5 PORTES - CT.OK - GARANTIE 12 MOIS BY HYUNDAI",
-    "brand": "HYUNDAI",
-    "model": "i30",
-    "price": 8490,
-    "year": 2016,
-    "km": 132000,
-    "power": 100,
-    "fuel": "Essence",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/3d/c5/77/3dc577dad600aea44112b1e9497bbe3eedf46be8.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3189100826",
-    "sold": true,
-    "color": "",
-    "addedAt": 1704067200000,
-    "type": "Voiture",
-    "places": 5
-  },
-  {
     "id": 37,
     "title": "VOLKSWAGEN GOLF 7 VII 1.6 TDI 110 CONFORTLINE - FORT KM - 3 PORTES - CT.OK",
     "brand": "VOLKSWAGEN",
