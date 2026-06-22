@@ -422,28 +422,6 @@
     "places": 5
   },
   {
-    "id": 54,
-    "title": "MERCEDES CLASSE A 45 S AMG 2.0 TURBO 421CH 8G-DCT SPEEDSHIFT AMG 4MATIC+ AERO8 - GARANTIE 12 MOIS BY MERCEDES - CT.OK - 1ER MAIN - ENTRETIEN RESEAU MERCEDES 57",
-    "brand": "MERCEDES",
-    "model": "CLASSE A 45S AMG",
-    "price": 37990,
-    "year": 2020,
-    "km": 110000,
-    "power": 421,
-    "fuel": "Essence",
-    "gearbox": "Automatique",
-    "description": "AMG 4Matic+ Aero8",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/28/94/b72894532237eb2f6f791dbf4a0bdd48d1dc1b6b.jpg?rule=ad-large"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3189094787",
-    "sold": true,
-    "color": "",
-    "addedAt": 1704067200000,
-    "type": "Voiture",
-    "places": 5
-  },
-  {
     "id": 56,
     "title": "🚀 TOYOTA PROACE CITY VERSO MEDIUM DYNAMIC 1.5 D-4D 100 BVM6 – CARPLAY – GPS – 5 PLACES – GARANTIE 12 MOIS BY LABEL 🚀",
     "brand": "TOYOTA",
@@ -460,28 +438,6 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3158537564",
     "sold": false,
-    "color": "",
-    "addedAt": 1704067200000,
-    "type": "Voiture",
-    "places": 5
-  },
-  {
-    "id": 63,
-    "title": "🚀 RENAULT CLIO IV 4 ESTATE 1.5 DCI 90 – INTENS – GARANTIE 6 MOIS – CT OK – ENTRETIEN RENAULT 🚀",
-    "brand": "RENAULT",
-    "model": "CLIO IV",
-    "price": 3790,
-    "year": 2013,
-    "km": 234599,
-    "power": 90,
-    "fuel": "Diesel",
-    "gearbox": "Manuelle",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/3b/24/eb/3b24eb787cc0cbc2733625f6fc23dd9c6b93c74a.jpg?rule=ad-large"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3147848155",
-    "sold": true,
     "color": "",
     "addedAt": 1704067200000,
     "type": "Voiture",
