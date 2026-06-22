@@ -292,28 +292,6 @@
     "places": 5
   },
   {
-    "id": 1780653742734,
-    "title": "🚀 TOYOTA AYGO 1.0 VVT-i 68CH DYNAMIC – 61 000 KM – GARANTIE 12 MOIS – MOTEUR À CHAÎNE 🚀",
-    "brand": "Toyota",
-    "model": "",
-    "price": 4990,
-    "year": 2013,
-    "km": 61000,
-    "fuel": "Essence",
-    "gearbox": "Manuelle",
-    "power": 68,
-    "color": "",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/5a/e5/33/5ae5339c25284b3db7b57db8bb29714b7a4aad98.jpg?rule=ad-large"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3205079751",
-    "sold": true,
-    "addedAt": 1780653742734,
-    "type": "Voiture",
-    "places": 5
-  },
-  {
     "id": 1,
     "title": "🚀 HONDA CIVIC 1.0 I-VTEC 126 ELEGANCE SPORT LINE – ESSENCE – CARPLAY / ANDROID AUTO – CAMÉRA – GARANTIE 12 MOIS CHEZ HONDA – CT OK 2028 🚀",
     "brand": "HONDA",
@@ -330,28 +308,6 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128309959",
     "sold": false,
-    "addedAt": 1704067200000,
-    "type": "Voiture",
-    "places": 5
-  },
-  {
-    "id": 4,
-    "title": "🚀 OPEL MOKKA 1.7 CDTI 130 COSMO PACK – BVA – DIESEL – CUIR – SUV CONFORT & FIABLE – GARANTIE 12 MOIS – CT OK 2028 🚀",
-    "brand": "OPEL",
-    "model": "MOKKA",
-    "price": 7490,
-    "year": 2014,
-    "km": 188860,
-    "power": 130,
-    "fuel": "Diesel",
-    "gearbox": "Automatique",
-    "description": "",
-    "photos": [
-      "https://img.leboncoin.fr/api/v1/lbcpb1/images/38/7e/ac/387eac77a2d1e1428cbb5709d8a905a36fbc03cd.jpg?rule=ad-image"
-    ],
-    "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128282834",
-    "sold": true,
-    "color": "",
     "addedAt": 1704067200000,
     "type": "Voiture",
     "places": 5
