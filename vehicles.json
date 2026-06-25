@@ -589,7 +589,8 @@
     "leboncoinUrl": "#",
     "addedAt": 1704067200000,
     "type": "Voiture",
-    "places": 5
+    "places": 5,
+    "sold": true
   },
   {
     "id": 82,
