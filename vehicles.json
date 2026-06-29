@@ -23,7 +23,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/18/62/45/1862457f891cb7cc37e7965a2337ef396d8d764c.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3162569010",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758302274
   },
   {
     "id": 1782758297931,
@@ -49,7 +50,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/81/fc/f9/81fcf9c6591ed9ac13a23d49a120fe04bcc0db89.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3224965429",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758297931
   },
   {
     "id": 1782758291867,
@@ -76,7 +78,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/72/a9/54/72a954b5bb2be4b8a9a1fa20dfc0541c806bf9d9.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3186007778",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758291867
   },
   {
     "id": 1782758282717,
@@ -102,7 +105,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/d7/32/4a/d7324ad607c63c2a95f8724c9cbedfb45e2f9239.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3216625643",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758282717
   },
   {
     "id": 1782758276626,
@@ -129,7 +133,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/46/27/7f/46277f70e29f80542cd49e61f706eb900f2fa48c.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213125019",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758276626
   },
   {
     "id": 1782758272756,
@@ -157,7 +162,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/f2/ef/49/f2ef491f1d86ed344f424aa15f999e3e0272fbf6.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213124280",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758272756
   },
   {
     "id": 1782758266082,
@@ -184,7 +190,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/a2/00/cf/a200cf4087b2a7f677f5b0051e3fc090b91c081e.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213123022",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758266082
   },
   {
     "id": 1782758262051,
@@ -212,7 +219,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/5d/24/7e/5d247e7820914db16dc69d06fe137984f352f9b2.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213123611",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758262051
   },
   {
     "id": 1782758258419,
@@ -239,7 +247,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/9f/e1/b4/9fe1b4f47eca29d5d037658c9c1386ce9e9ef1b5.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3211144800",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758258419
   },
   {
     "id": 1782758254887,
@@ -266,7 +275,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/ca/57/44/ca5744134272f7eb9548e9277214bfe360ab8402.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3215531754",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758254887
   },
   {
     "id": 1782758251298,
@@ -293,7 +303,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/3f/03/6e/3f036e7125f0cca94c4e5a1ca384168f5416bcb5.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3181844958",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758251298
   },
   {
     "id": 1782758244744,
@@ -321,7 +332,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/ef/9a/e8/ef9ae812c2838a83ab52b675d5040a4d8a3d31fd.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3186000629",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758244744
   },
   {
     "id": 1782758240978,
@@ -349,7 +361,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/e8/68/ff/e868ff22c497ea3d947323deb734dc28bb2e5b94.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3211147722",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758240978
   },
   {
     "id": 1782758234197,
@@ -377,7 +390,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/a5/84/02/a58402d2c5815a893d3831c78c9488e4c8e52927.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213123257",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758234197
   },
   {
     "id": 1782758228067,
@@ -406,7 +420,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/fe/98/e8/fe98e8a15aae77258896b1752c91dc1db1989493.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3189112176",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758228067
   },
   {
     "id": 1782758224001,
@@ -434,7 +449,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/47/2d/78/472d78accfa0e10f374213e8e866a9afbf9498e6.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3211146689",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758224001
   },
   {
     "id": 1782758219778,
@@ -460,7 +476,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/c7/0c/97/c70c97c33656214e451381fe9515421016a98fc3.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213122760",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758219778
   },
   {
     "id": 1782758214936,
@@ -486,7 +503,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/25/54/73/2554736812d4cae96850541fb538204be9287495.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3189106435",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758214936
   },
   {
     "id": 1782758169820,
@@ -515,7 +533,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/6a/a9/71/6aa97145ae17bdea4a33aa6c044e1896046b82c7.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213124129",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782758169820
   },
   {
     "id": 1782757844647,
@@ -544,7 +563,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/f4/6a/a2/f46aa2031bfa41b946289fe2b415e569d5ade150.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/utilitaires/3213124799",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757844647
   },
   {
     "id": 1782757839108,
@@ -570,7 +590,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/69/0c/c8/690cc8aad2e9466ec5e47db3801602896011a7d1.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117408349",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757839108
   },
   {
     "id": 1782757834900,
@@ -597,7 +618,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/bc/0c/dc/bc0cdc4ebb88077b9ae73a47e1e1e22ccda2a462.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3211148711",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757834900
   },
   {
     "id": 1782757829941,
@@ -625,7 +647,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/54/bf/19/54bf1929914aa222b55c68def4573aaef2169967.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213124937",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757829941
   },
   {
     "id": 1782757824873,
@@ -654,7 +677,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/79/65/32/7965324d4543a18689aa363f42e5903a63b658e6.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213122194",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757824873
   },
   {
     "id": 1782757818922,
@@ -682,7 +706,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/14/74/72/1474726d962dcf8f9a44baad157faf3ed8664fb3.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154721888",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757818922
   },
   {
     "id": 1782757814079,
@@ -710,7 +735,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/44/b9/23/44b923deb99717c1cf8b3d59653141eb9a71d0dc.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3169306247",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757814079
   },
   {
     "id": 1782757808726,
@@ -739,7 +765,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/83/33/3d/83333d91c79812de3f692714d9d290e0e45e21d1.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3211145952",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757808726
   },
   {
     "id": 1782757803618,
@@ -770,7 +797,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/45/b3/bc/45b3bcef21666cfd505ebee4d955f49e60bb3cb0.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3181849309",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757803618
   },
   {
     "id": 1782757798417,
@@ -798,7 +826,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/15/05/3f/15053f73bb2e8093ad50d0170696f66daab846a1.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3211150912",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757798417
   },
   {
     "id": 1782757791901,
@@ -824,7 +853,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/0a/a1/bb/0aa1bbf8f1e61e4c5f041fd37a7e5dec7705f29d.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128309959",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757791901
   },
   {
     "id": 1782757781197,
@@ -853,7 +883,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/e3/4b/ca/e34bca9f35cc79e608c14736714139d4cefb0062.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/utilitaires/3196486631",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757781197
   },
   {
     "id": 1782757572011,
@@ -883,7 +914,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/ac/d0/01/acd0013cd5b28337bf7e9d1e060f11e79b16f4c7.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/utilitaires/3192899254",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757572011
   },
   {
     "id": 1782757556668,
@@ -909,7 +941,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/7b/c9/3f/7bc93f4d55ba958eaac2c7c8a42768ce2b8df740.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3106103350",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757556668
   },
   {
     "id": 1782757546155,
@@ -939,7 +972,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/90/a8/5e/90a85ee56a75da84e4abb2998506c4356411ea0d.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3197304752",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757546155
   },
   {
     "id": 1782757537659,
@@ -969,7 +1003,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/3e/2f/06/3e2f06c148cf87d48a472cbfc14487f7c19cddd8.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3158537564",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757537659
   },
   {
     "id": 1782757531042,
@@ -996,7 +1031,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/02/94/e9/0294e9c941c60b80c4b67e27850a6590a68719b7.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3211739556",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757531042
   },
   {
     "id": 1782757519944,
@@ -1023,6 +1059,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/a8/f7/67/a8f76704f0a2d539a05d1d622cb41b05d024c3e8.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3189096954",
-    "sold": false
+    "sold": false,
+    "addedAt": 1782757519944
   }
 ]
