@@ -23,7 +23,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/81/fc/f9/81fcf9c6591ed9ac13a23d49a120fe04bcc0db89.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3224965429",
-    "sold": false
+    "sold": false,
+    "addedAt": 1783553635142
   },
   {
     "id": 1783553621828,
@@ -50,7 +51,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/f7/be/11/f7be11c0e909a3728e35f322b0bbb90b93c24d1e.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3216623585",
-    "sold": false
+    "sold": false,
+    "addedAt": 1783553621828
   },
   {
     "id": 1783553611949,
@@ -77,7 +79,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/e5/d5/87/e5d5875a12de22001b5e3d6271ba17eb47845ecc.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3216628143",
-    "sold": false
+    "sold": false,
+    "addedAt": 1783553611949
   },
   {
     "id": 1783553602701,
@@ -104,7 +107,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/b1/b2/83/b1b2832989b347a23165aff2207321f64203ffa7.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3220742770",
-    "sold": false
+    "sold": false,
+    "addedAt": 1783553602701
   },
   {
     "id": 1783553591193,
@@ -132,7 +136,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/17/71/65/1771651c5948dcaa95c6dac14b2b21ee44b4be32.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213123992",
-    "sold": false
+    "sold": false,
+    "addedAt": 1783553591193
   },
   {
     "id": 1783553572325,
@@ -160,7 +165,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/81/ac/31/81ac31af9b9ac8bb6a99fd89b3453a2fc1c2ef4d.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3211150277",
-    "sold": false
+    "sold": false,
+    "addedAt": 1783553572325
   },
   {
     "id": 1783553521821,
@@ -187,7 +193,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/02/94/e9/0294e9c941c60b80c4b67e27850a6590a68719b7.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3211739556",
-    "sold": false
+    "sold": false,
+    "addedAt": 1783553521821
   },
   {
     "id": 1782934617763,
