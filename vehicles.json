@@ -1075,7 +1075,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/6a/a9/71/6aa97145ae17bdea4a33aa6c044e1896046b82c7.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213124129",
-    "sold": false,
+    "sold": true,
     "addedAt": 1782758169820
   },
   {
