@@ -1133,7 +1133,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/f4/6a/a2/f46aa2031bfa41b946289fe2b415e569d5ade150.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/utilitaires/3213124799",
-    "sold": false,
+    "sold": true,
     "addedAt": 1782757844647
   },
   {
