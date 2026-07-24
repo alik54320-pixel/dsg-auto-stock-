@@ -24,7 +24,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/b3/ed/5c/b3ed5c2946b07fa71087fad23af60e47bfc2cf45.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3238628087",
-    "sold": false
+    "sold": false,
+    "addedAt": 1784914321476
   },
   {
     "id": 1783621949191,
