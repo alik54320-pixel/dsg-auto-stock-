@@ -931,7 +931,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/e8/68/ff/e868ff22c497ea3d947323deb734dc28bb2e5b94.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3211147722",
-    "sold": false,
+    "sold": true,
     "addedAt": 1782758240978
   },
   {
