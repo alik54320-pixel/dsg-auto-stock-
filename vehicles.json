@@ -873,7 +873,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/3f/03/6e/3f036e7125f0cca94c4e5a1ca384168f5416bcb5.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3181844958",
-    "sold": false,
+    "sold": true,
     "addedAt": 1782758251298
   },
   {
