@@ -619,7 +619,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/b1/b2/83/b1b2832989b347a23165aff2207321f64203ffa7.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3220742770",
-    "sold": false,
+    "sold": true,
     "addedAt": 1783553602701
   },
   {
