@@ -252,7 +252,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/d1/f4/1e/d1f41ea7ae51a6c57e8d5b7c70eb11b67ed894b3.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3230364603",
-    "sold": false,
+    "sold": true,
     "addedAt": 1783621460921
   },
   {
