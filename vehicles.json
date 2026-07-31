@@ -846,7 +846,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/f2/ef/49/f2ef491f1d86ed344f424aa15f999e3e0272fbf6.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213124280",
-    "sold": false,
+    "sold": true,
     "addedAt": 1782758272756
   },
   {
