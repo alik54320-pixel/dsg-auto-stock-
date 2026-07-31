@@ -959,7 +959,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/ca/57/44/ca5744134272f7eb9548e9277214bfe360ab8402.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3215531754",
-    "sold": false,
+    "sold": true,
     "addedAt": 1782758254887
   },
   {
