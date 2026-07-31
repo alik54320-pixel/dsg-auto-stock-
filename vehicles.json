@@ -1390,7 +1390,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/14/74/72/1474726d962dcf8f9a44baad157faf3ed8664fb3.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3154721888",
-    "sold": false,
+    "sold": true,
     "addedAt": 1782757818922
   },
   {
