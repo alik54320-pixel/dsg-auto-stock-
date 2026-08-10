@@ -821,7 +821,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/f7/be/11/f7be11c0e909a3728e35f322b0bbb90b93c24d1e.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3216623585",
-    "sold": false,
+    "sold": true,
     "addedAt": 1783553621828
   },
   {
