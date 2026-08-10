@@ -1300,7 +1300,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/bc/0c/dc/bc0cdc4ebb88077b9ae73a47e1e1e22ccda2a462.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3211148711",
-    "sold": false,
+    "sold": true,
     "addedAt": 1782757834900
   },
   {
