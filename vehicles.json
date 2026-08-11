@@ -309,7 +309,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/6a/59/87/6a5987a2006304c983aef3afc0f46efda7f731c7.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3233862024",
-    "sold": false,
+    "sold": true,
     "addedAt": 1785843672734
   },
   {
