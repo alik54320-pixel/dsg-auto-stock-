@@ -1075,7 +1075,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/d7/32/4a/d7324ad607c63c2a95f8724c9cbedfb45e2f9239.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3216625643",
-    "sold": false,
+    "sold": true,
     "addedAt": 1782758282717
   },
   {
