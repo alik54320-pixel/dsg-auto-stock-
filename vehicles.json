@@ -109,7 +109,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/ae/5f/63/ae5f63380830b192691a2e11f7e35e7cfa364f53.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3253756824",
-    "sold": false,
+    "sold": true,
     "addedAt": 1787265073852
   },
   {
