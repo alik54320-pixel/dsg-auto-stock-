@@ -1422,7 +1422,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/a8/f7/67/a8f76704f0a2d539a05d1d622cb41b05d024c3e8.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3189096954",
-    "sold": false,
+    "sold": true,
     "addedAt": 1782757519944
   }
 ]
