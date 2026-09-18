@@ -742,7 +742,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/a7/94/a6/a794a68c83af7037f1badb951b32bbcf09c23ba9.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3253755001",
-    "sold": false,
+    "sold": true,
     "addedAt": 1789639266779
   },
   {
