@@ -315,7 +315,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/4c/cc/73/4ccc7303b21ef6d4e33e435df3bc6704347aa25f.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3243741855",
-    "sold": false,
+    "sold": true,
     "addedAt": 1789639458129
   },
   {
