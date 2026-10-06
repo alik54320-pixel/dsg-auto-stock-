@@ -26,7 +26,11 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3229939128",
     "sold": false,
-    "addedAt": 1791282021041
+    "addedAt": 1791282021041,
+    "distribution": {
+      "marketplace": "prepared",
+      "marketplaceAt": "2026-10-06T18:19:21.595Z"
+    }
   },
   {
     "id": 1791281840495,
@@ -53,7 +57,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3224965429",
     "sold": false,
-    "addedAt": 1791281840495
+    "addedAt": 1791281840495,
+    "distribution": {}
   },
   {
     "id": 1791281826174,
@@ -81,7 +86,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3239663995",
     "sold": false,
-    "addedAt": 1791281826174
+    "addedAt": 1791281826174,
+    "distribution": {}
   },
   {
     "id": 1791281814339,
@@ -109,7 +115,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3243726406",
     "sold": false,
-    "addedAt": 1791281814339
+    "addedAt": 1791281814339,
+    "distribution": {}
   },
   {
     "id": 1791281733958,
@@ -137,7 +144,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3243727603",
     "sold": false,
-    "addedAt": 1791281733958
+    "addedAt": 1791281733958,
+    "distribution": {}
   },
   {
     "id": 1791281713492,
@@ -165,7 +173,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3257785456",
     "sold": false,
-    "addedAt": 1791281713492
+    "addedAt": 1791281713492,
+    "distribution": {}
   },
   {
     "id": 1791281697456,
@@ -193,7 +202,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3186007778",
     "sold": false,
-    "addedAt": 1791281697456
+    "addedAt": 1791281697456,
+    "distribution": {}
   },
   {
     "id": 1791281682336,
@@ -221,7 +231,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3253756068",
     "sold": false,
-    "addedAt": 1791281682336
+    "addedAt": 1791281682336,
+    "distribution": {}
   },
   {
     "id": 1791281661718,
@@ -249,7 +260,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3271629388",
     "sold": false,
-    "addedAt": 1791281661718
+    "addedAt": 1791281661718,
+    "distribution": {}
   },
   {
     "id": 1791281646380,
@@ -278,7 +290,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3276700715",
     "sold": false,
-    "addedAt": 1791281646380
+    "addedAt": 1791281646380,
+    "distribution": {}
   },
   {
     "id": 1791281628170,
@@ -307,7 +320,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3283187469",
     "sold": false,
-    "addedAt": 1791281628170
+    "addedAt": 1791281628170,
+    "distribution": {}
   },
   {
     "id": 1791281607077,
@@ -336,7 +350,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3243733332",
     "sold": false,
-    "addedAt": 1791281607077
+    "addedAt": 1791281607077,
+    "distribution": {}
   },
   {
     "id": 1791281578819,
@@ -394,7 +409,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3230336439",
     "sold": false,
-    "addedAt": 1791281560013
+    "addedAt": 1791281560013,
+    "distribution": {}
   },
   {
     "id": 1791281544601,
@@ -422,7 +438,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3276700412",
     "sold": false,
-    "addedAt": 1791281544601
+    "addedAt": 1791281544601,
+    "distribution": {}
   },
   {
     "id": 1791281523916,
@@ -449,7 +466,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3276702424",
     "sold": false,
-    "addedAt": 1791281523916
+    "addedAt": 1791281523916,
+    "distribution": {}
   },
   {
     "id": 1791281499714,
@@ -478,7 +496,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3233852683",
     "sold": false,
-    "addedAt": 1791281499714
+    "addedAt": 1791281499714,
+    "distribution": {}
   },
   {
     "id": 1791281479245,
@@ -506,7 +525,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3216620999",
     "sold": false,
-    "addedAt": 1791281479245
+    "addedAt": 1791281479245,
+    "distribution": {}
   },
   {
     "id": 1791281452398,
@@ -534,7 +554,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3243729815",
     "sold": false,
-    "addedAt": 1791281452398
+    "addedAt": 1791281452398,
+    "distribution": {}
   },
   {
     "id": 1791281430781,
@@ -563,7 +584,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3281607243",
     "sold": false,
-    "addedAt": 1791281430781
+    "addedAt": 1791281430781,
+    "distribution": {}
   },
   {
     "id": 1791281412814,
@@ -590,7 +612,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213122760",
     "sold": false,
-    "addedAt": 1791281412814
+    "addedAt": 1791281412814,
+    "distribution": {}
   },
   {
     "id": 1791281403848,
@@ -619,7 +642,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3274351426",
     "sold": false,
-    "addedAt": 1791281403848
+    "addedAt": 1791281403848,
+    "distribution": {}
   },
   {
     "id": 1791281370394,
@@ -648,7 +672,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3186000629",
     "sold": false,
-    "addedAt": 1791281370394
+    "addedAt": 1791281370394,
+    "distribution": {}
   },
   {
     "id": 1791281331691,
@@ -677,7 +702,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3274352050",
     "sold": false,
-    "addedAt": 1791281331691
+    "addedAt": 1791281331691,
+    "distribution": {}
   },
   {
     "id": 1791281292033,
@@ -704,7 +730,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3189106435",
     "sold": false,
-    "addedAt": 1791281292033
+    "addedAt": 1791281292033,
+    "distribution": {}
   },
   {
     "id": 1791281274570,
@@ -733,7 +760,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3230318103",
     "sold": false,
-    "addedAt": 1791281274570
+    "addedAt": 1791281274570,
+    "distribution": {}
   },
   {
     "id": 1791281252571,
@@ -762,7 +790,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213124937",
     "sold": false,
-    "addedAt": 1791281252571
+    "addedAt": 1791281252571,
+    "distribution": {}
   },
   {
     "id": 1791281220151,
@@ -792,7 +821,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213122194",
     "sold": false,
-    "addedAt": 1791281220151
+    "addedAt": 1791281220151,
+    "distribution": {}
   },
   {
     "id": 1791281204732,
@@ -819,7 +849,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3117408349",
     "sold": false,
-    "addedAt": 1791281204732
+    "addedAt": 1791281204732,
+    "distribution": {}
   },
   {
     "id": 1791281188041,
@@ -847,7 +878,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213125109",
     "sold": false,
-    "addedAt": 1791281188041
+    "addedAt": 1791281188041,
+    "distribution": {}
   },
   {
     "id": 1791281171012,
@@ -876,7 +908,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3274351807",
     "sold": false,
-    "addedAt": 1791281171012
+    "addedAt": 1791281171012,
+    "distribution": {}
   },
   {
     "id": 1791281153358,
@@ -904,7 +937,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/utilitaires/3276701444",
     "sold": false,
-    "addedAt": 1791281153358
+    "addedAt": 1791281153358,
+    "distribution": {}
   },
   {
     "id": 1791281143419,
@@ -933,7 +967,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3281604158",
     "sold": false,
-    "addedAt": 1791281143419
+    "addedAt": 1791281143419,
+    "distribution": {}
   },
   {
     "id": 1791281119975,
@@ -962,7 +997,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3274351464",
     "sold": false,
-    "addedAt": 1791281119975
+    "addedAt": 1791281119975,
+    "distribution": {}
   },
   {
     "id": 1791281087706,
@@ -991,7 +1027,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3169306247",
     "sold": false,
-    "addedAt": 1791281087706
+    "addedAt": 1791281087706,
+    "distribution": {}
   },
   {
     "id": 1791281075845,
@@ -1021,7 +1058,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3261892773",
     "sold": false,
-    "addedAt": 1791281075845
+    "addedAt": 1791281075845,
+    "distribution": {}
   },
   {
     "id": 1791281052187,
@@ -1050,7 +1088,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213123772",
     "sold": false,
-    "addedAt": 1791281052187
+    "addedAt": 1791281052187,
+    "distribution": {}
   },
   {
     "id": 1791281037678,
@@ -1079,7 +1118,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3281612296",
     "sold": false,
-    "addedAt": 1791281037678
+    "addedAt": 1791281037678,
+    "distribution": {}
   },
   {
     "id": 1791280585686,
@@ -1109,7 +1149,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3281601656",
     "sold": false,
-    "addedAt": 1791280585686
+    "addedAt": 1791280585686,
+    "distribution": {}
   },
   {
     "id": 1791280515041,
@@ -1138,7 +1179,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213123992",
     "sold": false,
-    "addedAt": 1791280515041
+    "addedAt": 1791280515041,
+    "distribution": {}
   },
   {
     "id": 1791280461356,
@@ -1166,7 +1208,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3230366450",
     "sold": false,
-    "addedAt": 1791280461356
+    "addedAt": 1791280461356,
+    "distribution": {}
   },
   {
     "id": 1791280382757,
@@ -1196,7 +1239,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3253757354",
     "sold": false,
-    "addedAt": 1791280382757
+    "addedAt": 1791280382757,
+    "distribution": {}
   },
   {
     "id": 1791278926857,
@@ -1224,7 +1268,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3253690619",
     "sold": false,
-    "addedAt": 1791278926857
+    "addedAt": 1791278926857,
+    "distribution": {}
   },
   {
     "id": 1791278916950,
@@ -1253,7 +1298,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3243737946",
     "sold": false,
-    "addedAt": 1791278916950
+    "addedAt": 1791278916950,
+    "distribution": {}
   },
   {
     "id": 1791278908389,
@@ -1283,7 +1329,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3279736655",
     "sold": false,
-    "addedAt": 1791278908389
+    "addedAt": 1791278908389,
+    "distribution": {}
   },
   {
     "id": 1791278895508,
@@ -1312,7 +1359,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/utilitaires/3224981684",
     "sold": false,
-    "addedAt": 1791278895508
+    "addedAt": 1791278895508,
+    "distribution": {}
   },
   {
     "id": 1791278880500,
@@ -1344,7 +1392,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3181849309",
     "sold": false,
-    "addedAt": 1791278880500
+    "addedAt": 1791278880500,
+    "distribution": {}
   },
   {
     "id": 1791278870319,
@@ -1372,7 +1421,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3230354949",
     "sold": false,
-    "addedAt": 1791278870319
+    "addedAt": 1791278870319,
+    "distribution": {}
   },
   {
     "id": 1791278856828,
@@ -1399,7 +1449,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3128309959",
     "sold": false,
-    "addedAt": 1791278856828
+    "addedAt": 1791278856828,
+    "distribution": {}
   },
   {
     "id": 1791278844030,
@@ -1429,7 +1480,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/utilitaires/3196486631",
     "sold": false,
-    "addedAt": 1791278844030
+    "addedAt": 1791278844030,
+    "distribution": {}
   },
   {
     "id": 1791278832064,
@@ -1456,7 +1508,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3106103350",
     "sold": false,
-    "addedAt": 1791278832064
+    "addedAt": 1791278832064,
+    "distribution": {}
   },
   {
     "id": 1791278821028,
@@ -1487,7 +1540,8 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3158537564",
     "sold": false,
-    "addedAt": 1791278821028
+    "addedAt": 1791278821028,
+    "distribution": {}
   },
   {
     "id": 1791278805648,
@@ -1515,6 +1569,7 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3189096954",
     "sold": false,
-    "addedAt": 1791278805648
+    "addedAt": 1791278805648,
+    "distribution": {}
   }
 ]
