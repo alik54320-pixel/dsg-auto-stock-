@@ -64,7 +64,10 @@
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3276702028",
     "sold": false,
     "addedAt": 1791640619870,
-    "distribution": {}
+    "distribution": {
+      "annoncesauto": "prepared",
+      "annoncesautoAt": "2026-10-10T15:23:21.110Z"
+    }
   },
   {
     "id": 1791640615444,
