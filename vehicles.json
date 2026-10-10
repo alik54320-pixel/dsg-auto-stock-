@@ -28,7 +28,10 @@
     "leboncoinUrl": "https://www.leboncoin.fr/ad/utilitaires/3276702261",
     "sold": false,
     "addedAt": 1791640624171,
-    "distribution": {}
+    "distribution": {
+      "largus": "prepared",
+      "largusAt": "2026-10-10T15:20:49.197Z"
+    }
   },
   {
     "id": 1791640619870,
