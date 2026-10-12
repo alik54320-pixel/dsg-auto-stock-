@@ -656,7 +656,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/c7/0c/97/c70c97c33656214e451381fe9515421016a98fc3.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213122760",
-    "sold": false,
+    "sold": true,
     "addedAt": 1791281412814,
     "distribution": {}
   },
