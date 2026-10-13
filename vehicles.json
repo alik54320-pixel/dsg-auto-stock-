@@ -628,7 +628,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/f2/51/69/f25169862b4f081f21f3778bad648402b8b0b9b5.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3281607243",
-    "sold": false,
+    "sold": true,
     "addedAt": 1791281430781,
     "distribution": {}
   },
