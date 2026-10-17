@@ -363,7 +363,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/18/6d/5b/186d5bbdf60bfa6e6343bdb3463c4d50bb769592.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3253756068",
-    "sold": false,
+    "sold": true,
     "addedAt": 1791281682336,
     "distribution": {}
   },
