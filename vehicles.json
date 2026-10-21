@@ -564,7 +564,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/ee/d8/c8/eed8c8ee1f9ef32e7686cb9a5941f1e39a984403.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3233852683",
-    "sold": false,
+    "sold": true,
     "addedAt": 1791281499714,
     "distribution": {}
   },
