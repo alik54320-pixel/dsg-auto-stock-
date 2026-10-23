@@ -769,7 +769,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/25/54/73/2554736812d4cae96850541fb538204be9287495.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3189106435",
-    "sold": false,
+    "sold": true,
     "addedAt": 1791281292033,
     "distribution": {}
   },
