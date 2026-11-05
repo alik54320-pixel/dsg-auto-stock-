@@ -25,7 +25,8 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/b5/3d/12/b53d12208931fe1de235ac598241c362e75e226f.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3301275999",
-    "sold": false
+    "sold": false,
+    "addedAt": 1793872171665
   },
   {
     "id": 1793872058865,
