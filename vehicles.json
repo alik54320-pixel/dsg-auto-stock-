@@ -1520,7 +1520,7 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/24/bf/77/24bf770d3a76936edc31440df4fc1a5054e8f267.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3274351807",
-    "sold": false,
+    "sold": true,
     "addedAt": 1791281171012,
     "distribution": {}
   },
