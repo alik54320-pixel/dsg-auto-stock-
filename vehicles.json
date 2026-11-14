@@ -1492,7 +1492,9 @@
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3213125109",
     "sold": false,
     "addedAt": 1791281188041,
-    "distribution": {}
+    "distribution": {},
+    "paused": true,
+    "pausedAt": 1794692640632
   },
   {
     "id": 1791281171012,
