@@ -44,7 +44,7 @@
     "places": 5,
     "type": "Voiture",
     "color": "Gris",
-    "description": "🚀 TOYOTA PROACE CITY VERSO MEDIUM DYNAMIC 1.5 D-4D 100 BVM6 – CARPLAY – GPS – 5 PLACES – GARANTIE 12 MOIS\n\n🏷️ INFORMATIONS\n\n📅 13/04/2021\n⛽ Diesel 1.5 D-4D 100 ch\n⚙️ Boîte manuelle 6 rapports\n🎨 Gris métallisé\n🚪 5 portes – 5 places (version Medium)\n🌍 Crit’Air 2 – Euro 6\n🔍 Contrôle technique OK\n\n⭐ PROACE CITY VERSO DYNAMIC\n\nLudospace familial reconnu pour sa fiabilité Toyota, sa modularité et sa faible consommation.\n\nToyota Proace City Verso Dynamic Medium – ludospace familial increvable, dé…",
+    "description": "🚀 TOYOTA PROACE CITY VERSO MEDIUM DYNAMIC 1.5 D-4D 100 BVM6 – CARPLAY – GPS – 5 PLACES – GARANTIE 12 MOIS\n\n🏷️ INFORMATIONS\n\n📅 13/04/2021\n⛽ Diesel 1.5 D-4D 100 ch\n⚙️ Boîte manuelle 6 rapports\n🎨 Gris métallisé\n🚪 5 portes – 5 places (version Medium)\n🌍 Crit’Air 2 – Euro 6\n🔍 Contrôle technique OK\n\n⭐ PROACE CITY VERSO DYNAMIC\n\nLudospace familial reconnu pour sa fiabilité Toyota, sa modularité et sa faible consommation.\n\nToyota Proace City Verso Dynamic Medium – ludospace familial increvable, dérivé utilitaire robuste !\nFiabilité Toyota légendaire + modularité Citroën/Peugeot, mais avec le badge japonais qui rassure.\nAlternative top aux Berlingo Multispace / Partner Tepee / Combo Life.\n\n✔️ Véhicule très propre\n✔️ Kilométrage suivi\n✔️ Économique (≈5-6 L /100 km)\n✔️ Aucun frais à prévoir\n\n🧠 ÉQUIPEMENTS PRINCIPAUX\n\n Multimédia & Confort\n✔️ GPS intégré + Apple CarPlay / Android Auto mirroring\n✔️ Écran tactile\n✔️ Bluetooth + USB + radio DAB\n✔️ Climatisation (manuelle ou auto ?)\n✔️ Volant multifonctions + régulateur de vitesse\n✔️ Prises 12V + rangements malins\n\nConfort\n✔️ Climatisation\n✔️ Régulateur / limiteur de vitesse\n✔️ Volant multifonctions\n✔️ Nombreux rangements\n\nModularité familiale\n✔️ 5 places modulables\n✔️ Banquette rabattable\n✔️ Coffre très généreux\n✔️ Idéal famille / loisirs\n\n👑 Intérieur familial\n✔️ 5 places modulables (banquette coulissante/rabattable)\n✔️ Coffre généreux (~775 L sièges en place – jusqu'à 3 000 L banquette rabattue)\n✔️ Sellerie tissu robuste\n\nExtérieur\n✔️ Feux de jour LED\n✔️ Rétroviseurs électriques dégivrants\n\nSécurité\n✔️ ABS / ESP\n✔️ Airbags\n✔️ Fixations ISOFIX\n✔️ Aide au démarrage en côte\n\n🔧 ENTRETIEN\n✔️ Carnet d’entretien\n✔️ Double de clés\n✔️ Véhicule prêt à rouler\n\n🛡️ GARANTIE\n✔️ Garantie professionnelle 12 mois\n✔️ Extension possible\n✔️ Achat sécurisé\n\n💰 PRIX : 17 290 € \n\n🌟 Disponible immédiatement chez DSG AUTO – Toul (54200)\n📱 Téléphone / WhatsApp via Leboncoin\n🔄 Reprise possible – Paiement sécurisé (virement/chèque certifié)\n\n📍 DSG AUTO – TOUL (54200)\n\n🕒 Lundi → Samedi : 10h – 18h30\n\n🔥 PROACE CITY VERSO 2021 DIESEL 100 CH – FIABLE – FAMILIAL – ÉCONOME – GPS CARPLAY – GARANTIE 12 MOIS",
     "photos": [
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/07/96/1a/07961ae502dd0c2fe31f51200555b4db67ffdb6e.jpg?rule=ad-large",
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/3a/86/66/3a866665f6ba87e4a41e2694ff5d6160d965fa6c.jpg?rule=ad-large",
@@ -59,7 +59,9 @@
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3158537564",
     "sold": false,
     "addedAt": 1795027459483,
-    "distribution": {}
+    "distribution": {},
+    "firstReg": "04/2021",
+    "fiscalPower": 7
   },
   {
     "id": 1795027452359,
