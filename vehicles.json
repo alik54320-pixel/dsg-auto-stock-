@@ -25,7 +25,9 @@
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3288407354",
     "sold": false,
-    "addedAt": 1795027748057
+    "addedAt": 1795027748057,
+    "paused": true,
+    "pausedAt": 1795032096780
   },
   {
     "id": 1795027459483,
