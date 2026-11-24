@@ -28,7 +28,9 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/2b/03/1b/2b031b50b48e91ac8cb4dbd944986dbd75df5d05.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/utilitaires/3313789770",
-    "sold": false
+    "sold": false,
+    "addedAt": 1795276186232,
+    "distribution": {}
   },
   {
     "id": 1795039867897,
