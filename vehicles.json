@@ -831,7 +831,7 @@
     "title": "🚀 abarth 500 1.4 turbo t-jet 135 – gris nardo – jantes blanches – cuir – garantie 12 mois 🚀",
     "brand": "ABARTH",
     "model": "500",
-    "price": 7490,
+    "price": 7990,
     "year": 2009,
     "km": 139000,
     "fuel": "Essence",
@@ -859,7 +859,8 @@
     "addedAt": 1795027162445,
     "distribution": {},
     "firstReg": "06/2009",
-    "fiscalPower": 8
+    "fiscalPower": 8,
+    "co2": null
   },
   {
     "id": 1795027139278,
