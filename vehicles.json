@@ -30,7 +30,9 @@
       "https://img.leboncoin.fr/api/v1/lbcpb1/images/5e/72/07/5e7207cbe10140f13531d3d7101ccadd56529985.jpg?rule=ad-large"
     ],
     "leboncoinUrl": "https://www.leboncoin.fr/ad/voitures/3303786369",
-    "sold": false
+    "sold": false,
+    "addedAt": 1795623835017,
+    "distribution": {}
   },
   {
     "id": 1795276186232,
